@@ -12,4 +12,5 @@ indexed and copied here by `tools/pack_contours_index.py`. Read by the broker (`
 2026-10-24 16:05: umr = the 33 Upper Mississippi / Illinois River pools (USGS UMRR LTRM water-depth surface; feet below the water surface at the flow stated for each pool; grids resampled from UTM to lat/lon). texas = 97 TWDB volumetric surveys (feet below conservation pool).
 2026-10-24 16:40: florida 59, ohio 131, pennsylvania 47, washington 219, indiana 104, iowa 109, massachusetts 253, oklahoma 90, kansas 66, connecticut 137, nebraska 109 (each state's agency lines; datum line in every file; probed with tools/probe_contours.mjs before the push).
 2026-10-24 16:55: westvirginia 66, cookcounty 162, vermont 26, southdakota 1 (Pactola), northdakota 267.
+2026-10-24 17:20: maine 965, montana 729, newhampshire 628. Not packed: minnesota (licence hold), alaska_adfg (agency polygons, no grid: packer path to add), usgs/west/california/caddo (no datum line yet).
 2026-10-24 14:55: illinois = all 39 lime lakes (Illinois DNR lake maps, public domain) with depth grids.
