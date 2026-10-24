@@ -7,3 +7,4 @@ Packed agency depth surveys for the app, one folder per state: `index.json` (eve
 indexed and copied here by `tools/pack_contours_index.py`. Read by the broker (`contour-pack.js`) over raw.githubusercontent.com.
 `states.json` lists the states that are live; a state is added only after its licence is cleared and its datum line is written.
 2026-10-24 14:25: michigan = all 1,587 lime lakes with compact depth grids (datum: below the lake surface at the MI DNR IFR survey).
+2026-10-24 14:40: wisconsin = all 203 lime lakes (traced WDNR lake maps, written permission 10-04) with depth grids.
