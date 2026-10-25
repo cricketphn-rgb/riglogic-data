@@ -11,5 +11,14 @@
   "rental": 985,
   "toilets": 41831,
   "camping": 35424
- }
+ },
+ "missing": [
+  [
+   -124.76,
+   45.54,
+   -116.92,
+   49.0
+  ]
+ ],
+ "missingNote": "WA: every Overpass mirror failed on the 2026-10-25 pull; rerun the script for WA (resumable) and rebuild"
 }
