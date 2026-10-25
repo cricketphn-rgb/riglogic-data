@@ -1,0 +1,15 @@
+{
+ "v": 1,
+ "built": "2026-10-25T17:39:21Z",
+ "tiles": 1129,
+ "items": 113695,
+ "source": "OpenStreetMap contributors (ODbL)",
+ "pull": "tools/top500/get_fresh_27_access_osm.ps1",
+ "kinds": {
+  "ramp": 29646,
+  "marina": 5809,
+  "rental": 985,
+  "toilets": 41831,
+  "camping": 35424
+ }
+}
