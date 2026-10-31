@@ -1,0 +1,21 @@
+{
+ "name": "Wood Lake",
+ "state": "IL",
+ "county": "Moultrie",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 331,
+  "credit": "Illinois Natural History Survey"
+ },
+ "secchi_ft": 3.0,
+ "ph": 8.3,
+ "alkalinity_mg_l": 118.0,
+ "conductivity_umhos": 420.0,
+ "growing_season_days": 183.0,
+ "max_depth_ft": 19.0,
+ "mean_depth_ft": 7.3,
+ "year_constructed": 1965.0,
+ "shoreline_dev_index": 2.87,
+ "app_key": "il_inhs_wood_lake",
+ "in_app": true
+}

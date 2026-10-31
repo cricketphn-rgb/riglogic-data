@@ -1,0 +1,22 @@
+{
+ "name": "Heidecke Lake",
+ "state": "IL",
+ "county": "Grundy",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 126,
+  "credit": "Illinois Natural History Survey"
+ },
+ "secchi_ft": 2.5,
+ "ph": 8.2,
+ "alkalinity_mg_l": 171.0,
+ "conductivity_umhos": 1830.0,
+ "growing_degree_days_50F": 3038.0,
+ "growing_season_days": 163.0,
+ "max_depth_ft": 60.0,
+ "mean_depth_ft": 9.0,
+ "year_constructed": 1976.0,
+ "shoreline_dev_index": 2.75,
+ "app_key": "il_inhs_heidecke_lake",
+ "in_app": true
+}

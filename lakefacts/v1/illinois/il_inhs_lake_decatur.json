@@ -1,0 +1,27 @@
+{
+ "name": "Lake Decatur",
+ "state": "IL",
+ "county": "Macon",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 74,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Freshwater Drum                 Walleye"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 1.1,
+ "ph": 8.0,
+ "alkalinity_mg_l": 208.0,
+ "conductivity_umhos": 5569.0,
+ "growing_season_days": 182.0,
+ "max_depth_ft": 22.0,
+ "mean_depth_ft": 6.0,
+ "year_constructed": 1922.0,
+ "shoreline_dev_index": 4.92,
+ "app_key": "il_inhs_lake_decatur",
+ "in_app": false
+}

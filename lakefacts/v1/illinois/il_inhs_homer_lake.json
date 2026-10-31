@@ -1,0 +1,29 @@
+{
+ "name": "Homer Lake",
+ "state": "IL",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 138,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Black Bullhead",
+   "Black Crappie",
+   "Bluegill",
+   "Blackstripe Topminnow",
+   "Carp",
+   "Channel Catfish",
+   "Golden Shiner",
+   "Grass Pickeral",
+   "Green Sunfish",
+   "Largemouth Bass"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "max_depth_ft": 24.0,
+ "mean_depth_ft": 8.1,
+ "year_constructed": 1969.0,
+ "app_key": "il_inhs_homer_lake",
+ "in_app": false
+}

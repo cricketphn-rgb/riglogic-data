@@ -1,0 +1,39 @@
+{
+ "name": "Sauk Trail",
+ "state": "IL",
+ "county": "Henry",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 271,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Black Crappie",
+   "Bluegill",
+   "Brook Silverside",
+   "Carp",
+   "Channel Catfish",
+   "Emerald Shiner",
+   "Golden Shiner",
+   "Green Sunfish",
+   "Largemouth Bass",
+   "Muskellunge",
+   "Redear Sunfish",
+   "White Crappie",
+   "Yellow Bullhead"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 1.7,
+ "ph": 7.2,
+ "alkalinity_mg_l": 187.0,
+ "conductivity_umhos": 361.0,
+ "growing_season_days": 158.0,
+ "max_depth_ft": 20.0,
+ "mean_depth_ft": 7.6,
+ "year_constructed": 1956.0,
+ "shoreline_dev_index": 2.1,
+ "app_key": "il_inhs_sauk_trail",
+ "in_app": false
+}

@@ -1,0 +1,26 @@
+{
+ "name": "Powerton Lake",
+ "state": "IL",
+ "county": "Tazwell",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 255,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Emerald Shiner                  Suager"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 2.5,
+ "alkalinity_mg_l": 230.0,
+ "conductivity_umhos": 795.0,
+ "growing_season_days": 180.0,
+ "max_depth_ft": 1499.3,
+ "mean_depth_ft": 10.3,
+ "year_constructed": 1971.0,
+ "shoreline_dev_index": 2.13,
+ "app_key": "il_inhs_powerton_lake",
+ "in_app": false
+}

@@ -1,0 +1,29 @@
+{
+ "name": "Weldon Springs Lake",
+ "state": "IL",
+ "county": "Dewiti",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 318,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Channel Catfish",
+   "Freshwater Drum"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 5.7,
+ "ph": 82.0,
+ "alkalinity_mg_l": 189.0,
+ "conductivity_umhos": 412.0,
+ "growing_degree_days_50F": 3263.0,
+ "growing_season_days": 175.0,
+ "max_depth_ft": 28.0,
+ "mean_depth_ft": 11.4,
+ "year_constructed": 1900.0,
+ "shoreline_dev_index": 2.75,
+ "app_key": "il_inhs_weldon_springs_lake",
+ "in_app": true
+}

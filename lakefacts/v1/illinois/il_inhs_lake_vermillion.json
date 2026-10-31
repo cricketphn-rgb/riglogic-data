@@ -1,0 +1,21 @@
+{
+ "name": "Lake Vermillion",
+ "state": "IL",
+ "county": "Vermillion",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 311,
+  "credit": "Illinois Natural History Survey"
+ },
+ "secchi_ft": 1.0,
+ "ph": 8.5,
+ "alkalinity_mg_l": 157.0,
+ "conductivity_umhos": 510.0,
+ "growing_season_days": 166.0,
+ "max_depth_ft": 16.0,
+ "mean_depth_ft": 5.4,
+ "year_constructed": 1925.0,
+ "shoreline_dev_index": 3.11,
+ "app_key": "il_inhs_lake_vermillion",
+ "in_app": false
+}

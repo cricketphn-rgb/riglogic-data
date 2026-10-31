@@ -1,0 +1,21 @@
+{
+ "name": "Bluff Lake",
+ "state": "IL",
+ "county": "Lake",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 34,
+  "credit": "Illinois Natural History Survey"
+ },
+ "secchi_ft": 1.5,
+ "ph": 8.0,
+ "alkalinity_mg_l": 237.0,
+ "conductivity_umhos": 581.0,
+ "growing_degree_days_50F": 2694.0,
+ "growing_season_days": 158.0,
+ "max_depth_ft": 29.0,
+ "mean_depth_ft": 14.1,
+ "shoreline_dev_index": 1.85,
+ "app_key": "il_inhs_bluff_lake",
+ "in_app": true
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Lake Eureka",
+ "state": "IL",
+ "county": "Woodford",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 94,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Black Bullhead",
+   "Bluegill",
+   "Carp",
+   "Channel Catfish",
+   "Gizzard Shad",
+   "Golden Shiner",
+   "Green Sunfish",
+   "Largemouth Bass",
+   "Redear Sunfish",
+   "White Crappie"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 2.0,
+ "ph": 7.8,
+ "alkalinity_mg_l": 167.0,
+ "conductivity_umhos": 444.0,
+ "growing_season_days": 172.0,
+ "max_depth_ft": 19.0,
+ "mean_depth_ft": 7.9,
+ "year_constructed": 1942.0,
+ "shoreline_dev_index": 1.95,
+ "app_key": "il_inhs_lake_eureka",
+ "in_app": true
+}

@@ -1,0 +1,21 @@
+{
+ "name": "Charleston Side Channel Lake",
+ "state": "IL",
+ "county": "Coles",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 58,
+  "credit": "Illinois Natural History Survey"
+ },
+ "secchi_ft": 11.4,
+ "ph": 85.0,
+ "alkalinity_mg_l": 134.0,
+ "conductivity_umhos": 362.0,
+ "growing_season_days": 182.0,
+ "max_depth_ft": 16.0,
+ "mean_depth_ft": 7.7,
+ "year_constructed": 1947.0,
+ "shoreline_dev_index": 1.43,
+ "app_key": "il_inhs_charleston_side_channel_lake",
+ "in_app": false
+}

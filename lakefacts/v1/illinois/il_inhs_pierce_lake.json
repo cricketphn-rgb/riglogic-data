@@ -1,0 +1,31 @@
+{
+ "name": "Pierce Lake",
+ "state": "IL",
+ "county": "Winnebago",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 238,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Bluntnose Minnow                Walleye",
+   "Gizzard Shad",
+   "Golden Shiner",
+   "Green Sunfish",
+   "Largemouth Bass"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 2.6,
+ "ph": 8.0,
+ "alkalinity_mg_l": 163.0,
+ "conductivity_umhos": 462.0,
+ "growing_season_days": 152.0,
+ "max_depth_ft": 33.0,
+ "mean_depth_ft": 11.2,
+ "year_constructed": 1960.0,
+ "shoreline_dev_index": 2.42,
+ "app_key": "il_inhs_pierce_lake",
+ "in_app": true
+}

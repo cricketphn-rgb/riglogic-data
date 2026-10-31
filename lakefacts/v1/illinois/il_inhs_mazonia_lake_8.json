@@ -1,0 +1,20 @@
+{
+ "name": "Mazonia Lake #8",
+ "state": "IL",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 184,
+  "credit": "Illinois Natural History Survey"
+ },
+ "secchi_ft": 8.0,
+ "alkalinity_mg_l": 161.0,
+ "conductivity_umhos": 736.0,
+ "growing_degree_days_50F": 3126.0,
+ "growing_season_days": 174.0,
+ "max_depth_ft": 26.0,
+ "mean_depth_ft": 11.2,
+ "year_constructed": 1962.0,
+ "shoreline_dev_index": 2.88,
+ "app_key": "il_inhs_mazonia_lake_8",
+ "in_app": false
+}

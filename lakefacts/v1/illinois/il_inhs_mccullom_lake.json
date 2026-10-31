@@ -1,0 +1,38 @@
+{
+ "name": "Mccullom Lake",
+ "state": "IL",
+ "county": "Mchenry",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 196,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Black Crappie",
+   "Bluegill",
+   "Brown Bullhead",
+   "Carp",
+   "Channel Catfish",
+   "Golden Shiner",
+   "Green Sunfish X Bluegill",
+   "Largemouth Bass",
+   "Northern Pike",
+   "Pumpkinseed",
+   "ROCK BASS"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 3.7,
+ "ph": 8.2,
+ "alkalinity_mg_l": 176.0,
+ "conductivity_umhos": 547.0,
+ "growing_degree_days_50F": 2694.0,
+ "growing_season_days": 158.0,
+ "max_depth_ft": 9.5,
+ "mean_depth_ft": 4.0,
+ "year_constructed": 1890.0,
+ "shoreline_dev_index": 1.3,
+ "app_key": "il_inhs_mccullom_lake",
+ "in_app": true
+}

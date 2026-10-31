@@ -1,0 +1,32 @@
+{
+ "name": "Dawson Lake",
+ "state": "IL",
+ "county": "Mclean",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 70,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Black X White Crappie           Walleye",
+   "Gizzard Shad",
+   "Golden Shiner",
+   "Green Sunfish",
+   "Green Sunfish X Bluegill",
+   "Largemouth Bass"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 3.4,
+ "ph": 9.5,
+ "alkalinity_mg_l": 100.0,
+ "conductivity_umhos": 289.0,
+ "growing_season_days": 175.0,
+ "max_depth_ft": 26.0,
+ "mean_depth_ft": 10.1,
+ "year_constructed": 1964.0,
+ "shoreline_dev_index": 2.93,
+ "app_key": "il_inhs_dawson_lake",
+ "in_app": false
+}

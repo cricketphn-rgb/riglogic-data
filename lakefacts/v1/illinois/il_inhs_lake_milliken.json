@@ -1,0 +1,39 @@
+{
+ "name": "Lake Milliken",
+ "state": "IL",
+ "county": "Will",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 204,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Black Bullhead",
+   "Black Crappie",
+   "Bluegill",
+   "Brook Silverside",
+   "Carp",
+   "Emerald Shiner",
+   "Gizzard Shad",
+   "Green Sunfish",
+   "Largemouth Bass",
+   "Pumpkinseed",
+   "Redear Sunfish",
+   "Smallmouth Bass",
+   "White Crappie"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 2.0,
+ "ph": 8.5,
+ "alkalinity_mg_l": 200.0,
+ "conductivity_umhos": 495.0,
+ "growing_degree_days_50F": 3355.0,
+ "growing_season_days": 179.0,
+ "max_depth_ft": 8.0,
+ "mean_depth_ft": 134.5,
+ "shoreline_dev_index": 2.1,
+ "app_key": "il_inhs_lake_milliken",
+ "in_app": false
+}

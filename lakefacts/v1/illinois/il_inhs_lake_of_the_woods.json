@@ -1,0 +1,30 @@
+{
+ "name": "Lake Of The Woods",
+ "state": "IL",
+ "county": "Champaign",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 150,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Gizzard Shad",
+   "Golden Shiner",
+   "Green Sunfish",
+   "Green Sunfish X Bluegill"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "ph": 8.1,
+ "alkalinity_mg_l": 218.2,
+ "conductivity_umhos": 481.97101,
+ "growing_degree_days_50F": 3445.0,
+ "growing_season_days": 187.0,
+ "max_depth_ft": 22.0,
+ "mean_depth_ft": 9.4,
+ "year_constructed": 1945.0,
+ "shoreline_dev_index": 1.96,
+ "app_key": "il_inhs_lake_of_the_woods",
+ "in_app": false
+}

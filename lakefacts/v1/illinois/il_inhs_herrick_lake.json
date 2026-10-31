@@ -1,0 +1,34 @@
+{
+ "name": "Herrick Lake",
+ "state": "IL",
+ "county": "Dupage",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 130,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Black Bullhead",
+   "Bluegill",
+   "Carp",
+   "Channel Catfish",
+   "Golden Shiner",
+   "Green Sunfish",
+   "Largemouth Bass",
+   "White Crappie"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 1.8,
+ "ph": 8.7,
+ "alkalinity_mg_l": 135.0,
+ "conductivity_umhos": 468.0,
+ "growing_season_days": 164.0,
+ "max_depth_ft": 13.0,
+ "mean_depth_ft": 5.5,
+ "year_constructed": 1930.0,
+ "shoreline_dev_index": 1.77,
+ "app_key": "il_inhs_herrick_lake",
+ "in_app": true
+}

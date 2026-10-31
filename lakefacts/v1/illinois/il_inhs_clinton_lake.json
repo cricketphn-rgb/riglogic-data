@@ -1,0 +1,20 @@
+{
+ "name": "Clinton Lake",
+ "state": "IL",
+ "county": "Dewitt",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 62,
+  "credit": "Illinois Natural History Survey"
+ },
+ "secchi_ft": 1.4,
+ "alkalinity_mg_l": 192.0,
+ "conductivity_umhos": 426.0,
+ "growing_season_days": 187.0,
+ "max_depth_ft": 40.0,
+ "mean_depth_ft": 11.0,
+ "year_constructed": 1978.0,
+ "shoreline_dev_index": 13.2,
+ "app_key": "il_inhs_clinton_lake",
+ "in_app": false
+}

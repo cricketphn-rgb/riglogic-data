@@ -1,0 +1,33 @@
+{
+ "name": "Georgetown Reservoir",
+ "state": "IL",
+ "county": "Vermillion",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 118,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Goldfish",
+   "Green Sunfish",
+   "Green Sunfish X Bluegill",
+   "Largemouth Bass",
+   "Longear Sunfish",
+   "Orangespotted Sunfish",
+   "Red Shiner"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 1.7,
+ "ph": 8.2,
+ "alkalinity_mg_l": 185.0,
+ "conductivity_umhos": 559.0,
+ "growing_season_days": 182.0,
+ "max_depth_ft": 10.0,
+ "mean_depth_ft": 301.8,
+ "year_constructed": 1936.0,
+ "shoreline_dev_index": 5.32,
+ "app_key": "il_inhs_georgetown_reservoir",
+ "in_app": false
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Mazonia Lake #10",
+ "state": "IL",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 192,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Black Bullhead",
+   "Bluegill",
+   "Carp",
+   "Channel Catfish",
+   "Gizzard Shad",
+   "Grass Pickerel",
+   "Green Sunfish",
+   "Green Sunfish X Bluegill",
+   "Largemouth Bass",
+   "White Crappie",
+   "Yellow Bullhead"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 7.0,
+ "ph": 8.0,
+ "alkalinity_mg_l": 151.0,
+ "conductivity_umhos": 1350.0,
+ "growing_season_days": 174.0,
+ "max_depth_ft": 39.0,
+ "mean_depth_ft": 11.8,
+ "year_constructed": 1962.0,
+ "shoreline_dev_index": 5.67,
+ "app_key": "il_inhs_mazonia_lake_10",
+ "in_app": false
+}

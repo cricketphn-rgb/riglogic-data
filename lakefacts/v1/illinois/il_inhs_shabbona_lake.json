@@ -1,0 +1,33 @@
+{
+ "name": "Shabbona Lake",
+ "state": "IL",
+ "county": "Dekalb",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 275,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Black Crappie                   Walleye",
+   "Gizzard Shad",
+   "Golden Redhorse",
+   "Golden Shiner",
+   "Green Sunfish",
+   "Largemouth Bass",
+   "Muskellunge"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 5.0,
+ "ph": 8.1,
+ "alkalinity_mg_l": 261.0,
+ "conductivity_umhos": 513.0,
+ "growing_season_days": 163.0,
+ "max_depth_ft": 42.0,
+ "mean_depth_ft": 15.3,
+ "year_constructed": 1973.0,
+ "shoreline_dev_index": 2.63,
+ "app_key": "il_inhs_shabbona_lake",
+ "in_app": false
+}

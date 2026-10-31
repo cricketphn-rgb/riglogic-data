@@ -1,0 +1,38 @@
+{
+ "name": "Paris West Lake",
+ "state": "IL",
+ "county": "Edgar",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 230,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Black Bullhead",
+   "Bluegill",
+   "Carp",
+   "Channel Catfish",
+   "Golden Shiner",
+   "Green Sunfish",
+   "Largemouth Bass",
+   "Longear Sunfish",
+   "Orangespotted Sunfish",
+   "White Crappie",
+   "White Sucker",
+   "Yellow Bullhead"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 2.2,
+ "alkalinity_mg_l": 101.0,
+ "conductivity_umhos": 450.0,
+ "growing_degree_days_50F": 2710.0,
+ "growing_season_days": 166.0,
+ "max_depth_ft": 9.0,
+ "mean_depth_ft": 3.9,
+ "year_constructed": 1895.0,
+ "shoreline_dev_index": 3.63,
+ "app_key": "il_inhs_paris_west_lake",
+ "in_app": true
+}

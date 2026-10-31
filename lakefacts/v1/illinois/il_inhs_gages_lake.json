@@ -1,0 +1,33 @@
+{
+ "name": "Gages Lake",
+ "state": "IL",
+ "county": "Lake",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 110,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Black Crappie",
+   "Bluegill",
+   "Brown Bullhead",
+   "Carp",
+   "Emerald Shiner",
+   "Largemouth Bass",
+   "Pumpkinseed",
+   "Yellow Perch"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 3.5,
+ "ph": 8.0,
+ "alkalinity_mg_l": 115.0,
+ "conductivity_umhos": 720.0,
+ "growing_season_days": 175.0,
+ "max_depth_ft": 48.0,
+ "mean_depth_ft": 7.7,
+ "shoreline_dev_index": 2.41,
+ "app_key": "il_inhs_gages_lake",
+ "in_app": false
+}

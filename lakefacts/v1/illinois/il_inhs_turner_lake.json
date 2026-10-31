@@ -1,0 +1,28 @@
+{
+ "name": "Turner Lake",
+ "state": "IL",
+ "county": "Lake",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 307,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Golden Shiner",
+   "Grass Pickerel",
+   "Green Sunfish"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 6.8,
+ "ph": 8.3,
+ "alkalinity_mg_l": 228.0,
+ "conductivity_umhos": 320.0,
+ "growing_season_days": 158.0,
+ "max_depth_ft": 8.0,
+ "mean_depth_ft": 29.5,
+ "shoreline_dev_index": 1.37,
+ "app_key": "il_inhs_turner_lake",
+ "in_app": true
+}

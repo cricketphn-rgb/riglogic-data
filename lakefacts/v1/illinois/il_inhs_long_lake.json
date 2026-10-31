@@ -1,0 +1,28 @@
+{
+ "name": "Long Lake",
+ "state": "IL",
+ "county": "Vermillion",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 166,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Grass Pickerel"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 2.6,
+ "secchi_note": "printed 792 cm read as 79.2 cm (decimal point lost in the 1993 print; Illinois lake Secchi depths run 30-400 cm)",
+ "ph": 72.0,
+ "alkalinity_mg_l": 146.0,
+ "conductivity_umhos": 1723.0,
+ "growing_season_days": 166.0,
+ "max_depth_ft": 36.0,
+ "mean_depth_ft": 8.7,
+ "year_constructed": 1927.0,
+ "shoreline_dev_index": 3.39,
+ "app_key": "il_inhs_long_lake",
+ "in_app": false
+}

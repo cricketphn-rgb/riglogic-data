@@ -1,0 +1,39 @@
+{
+ "name": "Lake Le-Aqua-Na",
+ "state": "IL",
+ "county": "Stephenson",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 158,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Black Bullhead",
+   "Black Crappie",
+   "Bluegill",
+   "Brook Silverside",
+   "Carp",
+   "Channel Catfish",
+   "Golden Shiner",
+   "Largemouth Bass",
+   "Northern Pike",
+   "Redear Sunfish",
+   "Walleye",
+   "Warmouth"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 1.8,
+ "ph": 7.9,
+ "alkalinity_mg_l": 215.0,
+ "conductivity_umhos": 467.0,
+ "growing_degree_days_50F": 2748.0,
+ "growing_season_days": 157.0,
+ "max_depth_ft": 22.0,
+ "mean_depth_ft": 10.5,
+ "year_constructed": 1955.0,
+ "shoreline_dev_index": 1.8,
+ "app_key": "il_inhs_lake_le_aqua_na",
+ "in_app": false
+}

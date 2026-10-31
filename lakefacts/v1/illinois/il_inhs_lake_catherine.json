@@ -1,0 +1,30 @@
+{
+ "name": "Lake Catherine",
+ "state": "IL",
+ "county": "Lake",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 50,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Blackchin Shiner               Logperch",
+   "Brook Silverside               Walleye",
+   "Bullhead Minnow                Warmouth",
+   "Johnny Darter"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 6.0,
+ "ph": 8.0,
+ "alkalinity_mg_l": 210.0,
+ "conductivity_umhos": 456.0,
+ "growing_degree_days_50F": 2694.0,
+ "growing_season_days": 158.0,
+ "max_depth_ft": 40.0,
+ "mean_depth_ft": 16.9,
+ "shoreline_dev_index": 2.12,
+ "app_key": "il_inhs_lake_catherine",
+ "in_app": true
+}

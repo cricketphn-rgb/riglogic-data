@@ -1,0 +1,21 @@
+{
+ "name": "Sag Quarry (East)",
+ "state": "IL",
+ "county": "Cook",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 263,
+  "credit": "Illinois Natural History Survey"
+ },
+ "secchi_ft": 7.0,
+ "ph": 8.4,
+ "alkalinity_mg_l": 182.0,
+ "conductivity_umhos": 1007.0,
+ "growing_season_days": 165.0,
+ "max_depth_ft": 17.0,
+ "mean_depth_ft": 4.9,
+ "year_constructed": 1930.0,
+ "shoreline_dev_index": 4.06,
+ "app_key": "il_inhs_sag_quarry",
+ "in_app": false
+}

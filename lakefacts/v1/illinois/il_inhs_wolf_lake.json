@@ -1,0 +1,20 @@
+{
+ "name": "Wolf Lake",
+ "state": "IL",
+ "county": "Cook",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 327,
+  "credit": "Illinois Natural History Survey"
+ },
+ "ph": 8.0,
+ "alkalinity_mg_l": 72.0,
+ "conductivity_umhos": 302.0,
+ "growing_degree_days_50F": 2996.0,
+ "growing_season_days": 165.0,
+ "max_depth_ft": 16.0,
+ "mean_depth_ft": 5.9,
+ "shoreline_dev_index": 2.96,
+ "app_key": "il_inhs_wolf_lake",
+ "in_app": true
+}

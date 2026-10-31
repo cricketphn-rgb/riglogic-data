@@ -1,0 +1,39 @@
+{
+ "name": "Lake Carlton",
+ "state": "IL",
+ "county": "Whiteside",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 46,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Black Bullhead",
+   "Black Crappie",
+   "Bluegill",
+   "Brook Silverside",
+   "Channel Catfish",
+   "Golden Shiner",
+   "Green Sunfish",
+   "Largemouth Bass",
+   "Muskellunge",
+   "Redear Sunfish",
+   "Walleye"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 5.4,
+ "secchi_note": "printed 1636 cm read as 163.6 cm (decimal point lost in the 1993 print; Illinois lake Secchi depths run 30-400 cm)",
+ "ph": 5.8,
+ "alkalinity_mg_l": 219.0,
+ "conductivity_umhos": 288.0,
+ "growing_degree_days_50F": 3209.0,
+ "growing_season_days": 165.0,
+ "max_depth_ft": 27.0,
+ "mean_depth_ft": 11.3,
+ "year_constructed": 1969.0,
+ "shoreline_dev_index": 2.31,
+ "app_key": "il_inhs_lake_carlton",
+ "in_app": true
+}

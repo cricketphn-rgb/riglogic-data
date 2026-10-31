@@ -1,0 +1,21 @@
+{
+ "name": "Braidwood                       Lake",
+ "state": "IL",
+ "county": "Will",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 38,
+  "credit": "Illinois Natural History Survey"
+ },
+ "secchi_ft": 2.0,
+ "ph": 8.8,
+ "alkalinity_mg_l": 157.0,
+ "conductivity_umhos": 954.0,
+ "growing_season_days": 174.0,
+ "max_depth_ft": 81.0,
+ "mean_depth_ft": 8.8,
+ "year_constructed": 1981.0,
+ "shoreline_dev_index": 2.22,
+ "app_key": "il_inhs_braidwood_lake",
+ "in_app": false
+}

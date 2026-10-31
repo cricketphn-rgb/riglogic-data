@@ -1,0 +1,21 @@
+{
+ "name": "Lake Paradise",
+ "state": "IL",
+ "county": "Coles",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 222,
+  "credit": "Illinois Natural History Survey"
+ },
+ "secchi_ft": 1.3,
+ "ph": 8.1,
+ "alkalinity_mg_l": 152.0,
+ "conductivity_umhos": 454.0,
+ "growing_season_days": 183.0,
+ "max_depth_ft": 16.0,
+ "mean_depth_ft": 8.5,
+ "year_constructed": 1931.0,
+ "shoreline_dev_index": 2.36,
+ "app_key": "il_inhs_lake_paradise",
+ "in_app": true
+}

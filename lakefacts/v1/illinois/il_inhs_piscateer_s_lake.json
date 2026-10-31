@@ -1,0 +1,36 @@
+{
+ "name": "Piscateer'S Lake",
+ "state": "IL",
+ "county": "Cook",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 242,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Bluegill",
+   "Carp",
+   "Channel Catfish",
+   "Grass Pickerel",
+   "Green Sunfish",
+   "Largemouth Bass",
+   "Pumpkinseed",
+   "White Bass",
+   "Yellow Perch"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 11.5,
+ "ph": 8.6,
+ "alkalinity_mg_l": 271.0,
+ "conductivity_umhos": 1330.0,
+ "growing_degree_days_50F": 2996.0,
+ "growing_season_days": 165.0,
+ "max_depth_ft": 34.0,
+ "mean_depth_ft": 19.8,
+ "year_constructed": 1942.0,
+ "shoreline_dev_index": 1.44,
+ "app_key": "il_inhs_piscateer_s_lake",
+ "in_app": false
+}

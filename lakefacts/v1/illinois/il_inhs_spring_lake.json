@@ -1,0 +1,34 @@
+{
+ "name": "Spring Lake (South)",
+ "state": "IL",
+ "county": "Tazewell",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 287,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Brook Silverside",
+   "Channel Catfish",
+   "Fathead Minnow",
+   "Freshwater Drum",
+   "Gizzard Shad",
+   "Green Sunfish",
+   "Green Sunfish X Bluegill",
+   "Largemouth Bass"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 1.6,
+ "ph": 8.5,
+ "alkalinity_mg_l": 151.0,
+ "conductivity_umhos": 298.0,
+ "growing_season_days": 180.0,
+ "max_depth_ft": 7.0,
+ "mean_depth_ft": 3.8,
+ "year_constructed": 1918.0,
+ "shoreline_dev_index": 1.4,
+ "app_key": "il_inhs_spring_lake",
+ "in_app": false
+}

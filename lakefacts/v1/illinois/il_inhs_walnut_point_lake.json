@@ -1,0 +1,39 @@
+{
+ "name": "Walnut Point Lake",
+ "state": "IL",
+ "county": "Douglass",
+ "source": {
+  "doc": "INHS Aquatic Ecology Technical Report 93/9(1), Compendium of 143 Illinois Lakes Vol. 1 (Austen et al. 1993)",
+  "page": 315,
+  "credit": "Illinois Natural History Survey"
+ },
+ "species_present": {
+  "value": [
+   "Black Bullhead",
+   "Black Crappie",
+   "Bluegill",
+   "Bluegill X Redear",
+   "Brown Bullhead",
+   "Channel Catfish",
+   "Fathead Minnow",
+   "Golden Shiner",
+   "Green Sunfish",
+   "Green Sunfish X Bluegill",
+   "Largemouth Bass",
+   "Longear Sunfish",
+   "Redear Sunfish"
+  ],
+  "note": "fish caught in Illinois Dept. of Conservation sampling (presence, not abundance)"
+ },
+ "secchi_ft": 2.3,
+ "ph": 8.3,
+ "alkalinity_mg_l": 146.0,
+ "conductivity_umhos": 383.0,
+ "growing_season_days": 182.0,
+ "max_depth_ft": 32.0,
+ "mean_depth_ft": 12.5,
+ "year_constructed": 1968.0,
+ "shoreline_dev_index": 5.4,
+ "app_key": "il_inhs_walnut_point_lake",
+ "in_app": false
+}
