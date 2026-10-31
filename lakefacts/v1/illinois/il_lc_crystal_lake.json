@@ -1,0 +1,21 @@
+{
+ "name": "Crystal Lake",
+ "state": "IL",
+ "county": "McHenry",
+ "source": {"doc": "Hey and Associates, Inc., Crystal Lake State of the Lake 2023-2024 (Crystal Lake Park District, presented May 1, 2025)", "credit": "Crystal Lake Park District / Hey and Associates"},
+ "secchi_ft": {"value": 13.17, "note": "2023-2024 average (158 in); historical range shown 9-19 ft", "page": 14},
+ "ph": {"low": 7.58, "high": 8.35, "years": "2023-2024"},
+ "alkalinity_mg_l": {"low": 167, "high": 200},
+ "total_phosphorus_mg_l": {"value": 0.024, "note": "2nd percentile statewide (very clean)"},
+ "chlorophyll_a_ug_l": {"2023": 2.1, "2024": 6.4, "note": "June 2024 algal bloom after heavy rain"},
+ "trophic_state": {"tsi_2023": 42, "tsi_2024": 43, "class": "mesotrophic"},
+ "oxygen": {"note": "monthly 2-ft DO profiles; deep station (VTZH-1) below 3.0 mg/L June through October 2023 and 2024 (fish avoid water under 3 mg/L); shallower station (VTZH-2) above 3.0 all year", "summer_hypoxic_months": [6, 7, 8, 9, 10]},
+ "stratification": "stratifies in summer, fall turnover, winter stratification, spring turnover",
+ "stocking": {"annual": ["Walleye", "Smallmouth Bass", "Yellow Perch"], "past": ["Tiger Muskellunge", "Largemouth Bass", "Channel Catfish", "Black Crappie", "Northern Pike"]},
+ "fish_survey": {"last": "2021-05-07", "by": "Illinois Department of Natural Resources"},
+ "vegetation": {"species_count": 11, "native": 8, "non_native": 3, "survey": "37 transects, 222 sites (2023, 2024)"},
+ "invasives": ["Zebra Mussel"],
+ "max_depth_ft": {"value": 41, "note": "deepest contour 40 ft (5-ft contours); USGS SIR 2024-5007 lake bottom 849.9 ft vs mean stage 890.9 ft"},
+ "app_key": "il_lc_crystal_lake",
+ "in_app": false
+}
