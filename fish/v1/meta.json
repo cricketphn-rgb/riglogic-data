@@ -1,0 +1,39 @@
+{
+ "v": 1,
+ "built": "2026-11-13 18:28 UTC",
+ "lakes": 7937,
+ "ledgers": 550,
+ "watersheds": 2430,
+ "livingRecords": 211403,
+ "covered": [
+  "Blue Catfish",
+  "Bluegill",
+  "Brook Trout",
+  "Chain Pickerel",
+  "Channel Catfish",
+  "Chinook Salmon",
+  "Coho Salmon",
+  "Crappie",
+  "Flathead Catfish",
+  "Kokanee",
+  "Lake Trout",
+  "Largemouth Bass",
+  "Muskellunge",
+  "Northern Pike",
+  "Sauger",
+  "Smallmouth Bass",
+  "Spotted Bass",
+  "Striped Bass",
+  "Trout",
+  "Walleye",
+  "White Bass",
+  "Yellow Perch"
+ ],
+ "sources": [
+  "agency lake lists (research/species_rules_draft_*.json)",
+  "Wisconsin DNR lake pages, read 2026-11-13",
+  "USGS Native ranges of freshwater fishes of North America (doi 10.5066/P9C4N10N, ver. 2.0)",
+  "USGS Nonindigenous Aquatic Species database (records by watershed)",
+  "USGS Watershed Boundary Dataset (HUC8)"
+ ]
+}
