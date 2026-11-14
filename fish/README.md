@@ -16,6 +16,13 @@ Built by `rigology-app/tools/species/build_fish_data.py`. Do not edit by hand. N
   `searched` (an agency page naming four or more fish AND a search of other sources), `page` (the page alone). The server's rule
   2b reads it: a GAME fish (walleye, pike, smallmouth, trout) no piece names is not offered under `survey` / `searched`, held back
   under `page`, and held back, never off, where a living record of the last fifteen years puts it on the water.
+  **THE STACK (11-14, the server's rule 2c, build 87b):** a lake's records stack in its file and the newer weighs more. A piece
+  may carry `y` (the last year the record saw the fish: a strong piece more than 25 years old is OLD: alone it holds a game fish
+  back and keeps an everyday fish on; anything newer or undated beats it), `y0` (first year), `n` (how many surveys of the lake
+  found it), `sy` (the last year a dated survey saw a fish the source's standing list also names). The ledger may carry `sv`
+  (what was surveyed: per source and method the count and years) and `coverBy` (the cover fish by fish: a source's silence takes
+  off only the fish its own test passes for). `scorecard.json` beside `meta.json`: every source's test and what the server
+  states per state, written by `rigology-app/tools/species/scorecard.py` on every build.
   **Only an agency list takes a fish off. Present on any agency source = present.** A list that marks no fish present is not a list and is not here.
 - `huc/<huc8>.json` one watershed: `r` the USGS native-range origin per fish (N native / I introduced), `s` USGS NAS record counts per fish
   `[records, living, last year, last living year]`, `p` the living records `[lat, lon, year, stocked, real point, locality]`.

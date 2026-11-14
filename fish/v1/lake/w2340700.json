@@ -1,1 +1,1 @@
-{"k":"w2340700","b":[-89.51612,46.05237,-89.48703,46.06843],"fish":{"Muskellunge":[{"ag":1,"k":"park","p":1,"s":"dnr.wisconsin.gov"}],"Walleye":[{"ag":1,"k":"report","p":1,"s":"dnr.wisconsin.gov","stk":1,"y":2013}]},"n":"Ballard Lake","st":"WI"}
+{"k":"w2340700","b":[-89.51612,46.05237,-89.48703,46.06843],"fish":{"Muskellunge":[{"ag":1,"k":"park","p":1,"s":"dnr.wisconsin.gov"}],"Walleye":[{"ag":1,"k":"report","n":2,"p":1,"s":"dnr.wisconsin.gov","stk":1,"y":2013,"y0":2011}]},"n":"Ballard Lake","st":"WI"}

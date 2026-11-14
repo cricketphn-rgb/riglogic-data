@@ -1,1 +1,1 @@
-{"k":"on_island_lake_31052621","b":[-80.59679,47.51006,-80.58422,47.51665],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Island Lake","st":"ON","lines":["Panfish"],"cover":"searched"}
+{"k":"on_island_lake_31052621","b":[-80.59679,47.51006,-80.58422,47.51665],"fish":{"Brook Trout":[{"ag":1,"k":"park","n":2,"p":1,"s":"ontario.ca","sy":2013,"y0":2008}]},"n":"Island Lake","st":"ON","lines":["Panfish"],"sv":[{"m":"netting","n":2,"s":"ontario.ca","y":2013,"y0":2008},{"m":"surveys","n":25,"s":"ontario.ca","y":2013,"y0":2008}],"cover":"searched"}

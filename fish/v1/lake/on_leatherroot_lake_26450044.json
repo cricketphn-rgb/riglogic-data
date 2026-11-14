@@ -1,1 +1,1 @@
-{"k":"on_leatherroot_lake_26450044","b":[-77.21594,45.17052,-77.20305,45.17565],"fish":{"Lake Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Leatherroot Lake","st":"ON","lines":["Panfish"],"cover":"page"}
+{"k":"on_leatherroot_lake_26450044","b":[-77.21594,45.17052,-77.20305,45.17565],"fish":{"Lake Trout":[{"ag":1,"k":"park","n":1,"p":1,"s":"ontario.ca","sy":2010,"y0":2010}]},"n":"Leatherroot Lake","st":"ON","lines":["Panfish"],"sv":[{"m":"netting","n":1,"s":"ontario.ca","y":2010,"y0":2010},{"m":"surveys","n":15,"s":"ontario.ca","y":2010,"y0":2010}],"cover":"page"}
