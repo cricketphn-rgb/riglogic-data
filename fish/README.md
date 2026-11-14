@@ -41,9 +41,9 @@ Monitoring) in two or more years carries `cover: searched` (139 lakes: a game fi
 offered; against the anglers' reports 0 of 264 such verdicts were wrong), netted in one year `cover: page` (0.7% wrong: held back);
 **North Dakota Game and Fish Department, Fishing Waters service (ND GIS Hub)** (11-14: 269 lakes; source `gf.nd.gov`; the department's
 sport-fish list, its netting catches 2015-2025 and its stocking 2016-2026, read together by `northdakota_to_evidence.py`): what they
-name is asserted; on the 222 lakes netted in five or more years `cover: searched` (a GAME fish none of the three names is not offered:
-checked on a hold-out, about 0.5 in 100 such removals is a fish the nets later brought up); everyday fish are never taken off; lakes
-netted less carry `cover: page`;
+name is asserted, with the years the nets found it. A game fish none of the three names is HELD BACK (`cover: page`). On the 222 lakes
+netted in five or more years the trout alone are taken off (`coverBy`): on the hold-out 0 of 884 such verdicts were wrong; walleye,
+pike and smallmouth were wrong 7 times of 443 (1.6 in 100: not the bar). Everyday fish are never taken off;
 **Wisconsin DNR public map services** (11-14: 454 lakes; source `dnr.wisconsin.gov`; walleye, musky and sturgeon waters, annual stocking
 2010-2026, by `wisconsin_layers_to_evidence.py`): these only add (a stocking of the last ten years or of three or more years is a
 strong add; an older one-off is `report`; stocked trout are strong only where the state's own lake class is cold water);
