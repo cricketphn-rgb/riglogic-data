@@ -30,6 +30,14 @@ licensed under the Open Government Licence - Ontario.** It is NOT a lake's whole
 surveys: a fish anglers report is missing from it 15 times in 100; 5 in 100 on lists of 13 or more fish): what it names is asserted
 (`park` + `ag: 1`), its silence takes nothing off, and only a list of 13 or more fish carries `cover: page` (567 lakes: a game fish it
 does not name is held back);
+**North Dakota Game and Fish Department, Fishing Waters service (ND GIS Hub)** (11-14: 269 lakes; source `gf.nd.gov`; the department's
+sport-fish list, its netting catches 2015-2025 and its stocking 2016-2026, read together by `northdakota_to_evidence.py`): what they
+name is asserted; on the 222 lakes netted in five or more years `cover: searched` (a GAME fish none of the three names is not offered:
+checked on a hold-out, about 0.5 in 100 such removals is a fish the nets later brought up); everyday fish are never taken off; lakes
+netted less carry `cover: page`;
+**Wisconsin DNR public map services** (11-14: 454 lakes; source `dnr.wisconsin.gov`; walleye, musky and sturgeon waters, annual stocking
+2010-2026, by `wisconsin_layers_to_evidence.py`): these only add (a stocking of the last ten years or of three or more years is a
+strong add; an older one-off is `report`; stocked trout are strong only where the state's own lake class is cold water);
 USGS "Native ranges of freshwater fishes of North America" (Daniel and Neilson, doi 10.5066/P9C4N10N, ver. 2.0, 2022);
 USGS Nonindigenous Aquatic Species database; USGS Watershed Boundary Dataset.
 
