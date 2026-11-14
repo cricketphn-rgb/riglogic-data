@@ -29,7 +29,9 @@ read from the province's open data, layer LIO_Open07 / 2, by `rigology-app/tools
 licensed under the Open Government Licence - Ontario.** It is NOT a lake's whole list (checked against the province's own angler
 surveys: a fish anglers report is missing from it 15 times in 100; 5 in 100 on lists of 13 or more fish): what it names is asserted
 (`park` + `ag: 1`), its silence takes nothing off, and only a list of 13 or more fish carries `cover: page` (567 lakes: a game fish it
-does not name is held back);
+does not name is held back). The layer's SURVEY POINTS (LIO_Open07 / 0) are read too: a lake the province netted (Broad-scale
+Monitoring) in two or more years carries `cover: searched` (139 lakes: a game fish neither the list nor any survey names is not
+offered; against the anglers' reports 0 of 264 such verdicts were wrong), netted in one year `cover: page` (0.7% wrong: held back);
 **North Dakota Game and Fish Department, Fishing Waters service (ND GIS Hub)** (11-14: 269 lakes; source `gf.nd.gov`; the department's
 sport-fish list, its netting catches 2015-2025 and its stocking 2016-2026, read together by `northdakota_to_evidence.py`): what they
 name is asserted; on the 222 lakes netted in five or more years `cover: searched` (a GAME fish none of the three names is not offered:
