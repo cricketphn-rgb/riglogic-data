@@ -24,6 +24,12 @@ Built by `rigology-app/tools/species/build_fish_data.py`. Do not edit by hand. N
 Agency lake lists (Wisconsin DNR survey maps and current lake pages; AZGFD; NPS; NDOW; CDFW; state and federal Great Lakes lists);
 harvested pages per lake (11-14: 121 big-name lakes; agency, park, stocking, Wikipedia and site pages, each with its address in
 `rigology-app/research/harvest/`);
+**Ontario Ministry of Natural Resources, Aquatic Resource Area fish lists per lake** (11-14: 2,441 of our Ontario lakes; source `ontario.ca`;
+read from the province's open data, layer LIO_Open07 / 2, by `rigology-app/tools/species/ontario_to_evidence.py`). **Contains information
+licensed under the Open Government Licence - Ontario.** It is NOT a lake's whole list (checked against the province's own angler
+surveys: a fish anglers report is missing from it 15 times in 100; 5 in 100 on lists of 13 or more fish): what it names is asserted
+(`park` + `ag: 1`), its silence takes nothing off, and only a list of 13 or more fish carries `cover: page` (567 lakes: a game fish it
+does not name is held back);
 USGS "Native ranges of freshwater fishes of North America" (Daniel and Neilson, doi 10.5066/P9C4N10N, ver. 2.0, 2022);
 USGS Nonindigenous Aquatic Species database; USGS Watershed Boundary Dataset.
 
