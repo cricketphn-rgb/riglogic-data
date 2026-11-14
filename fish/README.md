@@ -12,6 +12,10 @@ Built by `rigology-app/tools/species/build_fish_data.py`. Do not edit by hand. N
   where the engine's own test of the water allows). Markers: `ag: 1` the source is an agency page (a page that names some of a
   lake's fish is not a list of the lake: it is written `park`, and takes nothing off); `stk: 1` the source's word was "stocked";
   `y` a year. A cold-water fish known only by stocking is `report` (no stocking season is held: no trout on a hot lake in July).
+  `cover` (on the ledger, 11-14): how far the lake's own sources cover it: `survey` (the agency's inventory or survey catches),
+  `searched` (an agency page naming four or more fish AND a search of other sources), `page` (the page alone). The server's rule
+  2b reads it: a GAME fish (walleye, pike, smallmouth, trout) no piece names is not offered under `survey` / `searched`, held back
+  under `page`, and held back, never off, where a living record of the last fifteen years puts it on the water.
   **Only an agency list takes a fish off. Present on any agency source = present.** A list that marks no fish present is not a list and is not here.
 - `huc/<huc8>.json` one watershed: `r` the USGS native-range origin per fish (N native / I introduced), `s` USGS NAS record counts per fish
   `[records, living, last year, last living year]`, `p` the living records `[lat, lon, year, stocked, real point, locality]`.
