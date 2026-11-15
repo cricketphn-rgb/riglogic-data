@@ -44,6 +44,13 @@ sport-fish list, its netting catches 2015-2025 and its stocking 2016-2026, read 
 name is asserted, with the years the nets found it. A game fish none of the three names is HELD BACK (`cover: page`). On the 222 lakes
 netted in five or more years the trout alone are taken off (`coverBy`): on the hold-out 0 of 884 such verdicts were wrong; walleye,
 pike and smallmouth were wrong 7 times of 443 (1.6 in 100: not the bar). Everyday fish are never taken off;
+**Michigan DNR, Fish Stocking Report map service** (11-15: 640 of our 1,590 Michigan lakes; source `michigan.gov/dnr`; every plant
+1979 to today, read by `michigan_stocking_to_evidence.py`). A record is a lake's when its water name is ours and the centre of the
+record's township (from the Michigan Meridian) is within 12 km of our lake (all 625 clean name-and-county matches lie within 11 km).
+ADDS ONLY, no cover. A plant since 2016 or plants in three or more years is `stock` (dated) for walleye, pike, perch, crappie,
+bluegill and largemouth (tested on Wisconsin's stocking against Wisconsin's lake pages: walleye 151 of 156, pike 25 of 26, the
+others 60 of 60); smallmouth, the trout, channel catfish, an older one-off plant and any fish last planted over 25 years ago are a
+`report` (offered, not confirmed). It is not a lake's list: it names only what the state plants;
 **Connecticut DEEP, "Lake and Pond Regulations" page** (11-15: 98 of our 138 Connecticut lakes; source `portal.ct.gov`; the page's
 "Species:" line per lake in its own codes, read by `connecticut_to_evidence.py`; matched by name and size). What a line names is
 asserted (`park` + `ag: 1`; "S", the page's "Sunfish (Bluegill, Pumpkinseed)", asserts Bluegill; "T" is Trout). A line of four or
