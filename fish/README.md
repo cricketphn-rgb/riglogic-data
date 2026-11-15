@@ -44,6 +44,14 @@ sport-fish list, its netting catches 2015-2025 and its stocking 2016-2026, read 
 name is asserted, with the years the nets found it. A game fish none of the three names is HELD BACK (`cover: page`). On the 222 lakes
 netted in five or more years the trout alone are taken off (`coverBy`): on the hold-out 0 of 884 such verdicts were wrong; walleye,
 pike and smallmouth were wrong 7 times of 443 (1.6 in 100: not the bar). Everyday fish are never taken off;
+**Montana Fish, Wildlife & Parks, fishViewer map service** (11-15: 515 lakes; source `fwp.mt.gov`; layer 51 Fish Survey Locations
+and layer 38 Fish Stocking Records, read by `montana_to_evidence.py`; credit: Montana Fish, Wildlife & Parks). A record is a lake's
+when its point is inside our box and its water name is ours. A fish the surveys brought up is asserted and DATED by its last survey
+year, with the years it was seen (`n`, `y0`, `sy`); a fish brought up in ONE year on a lake surveyed in five or more is a `report`
+marked `rare` (offered, not confirmed; largemouth and bluegill exempt); a fish known only by stocking is `stock` when planted since
+2016 or in three or more years, else `report` (cold-water fish: always `report`). A game fish the record does not name is HELD BACK
+(`cover: page`, 449 surveyed lakes). **It takes nothing off:** on the hold-out (surveys and stocking through 2012 against the surveys
+after, 209 lakes) a game fish it did not name came up later 26 times of 913 (2.85 in 100: not the bar);
 **Wisconsin DNR public map services** (11-14: 454 lakes; source `dnr.wisconsin.gov`; walleye, musky and sturgeon waters, annual stocking
 2010-2026, by `wisconsin_layers_to_evidence.py`): these only add (a stocking of the last ten years or of three or more years is a
 strong add; an older one-off is `report`; stocked trout are strong only where the state's own lake class is cold water);

@@ -1,16 +1,16 @@
 {
  "all": {
-  "held": 3688,
-  "ledgers": 3383,
-  "off": 2737,
-  "on": 11007,
-  "open": 19781,
-  "pairs": 37213,
-  "surveyed": 903
+  "held": 6438,
+  "ledgers": 3893,
+  "off": 3583,
+  "on": 11687,
+  "open": 21115,
+  "pairs": 42823,
+  "surveyed": 1418
  },
  "bar": 0.5,
- "built": "2026-11-14 21:43 UTC",
- "lakes": 11130,
+ "built": "2026-11-15 17:41 UTC",
+ "lakes": 11143,
  "problems": [],
  "states": {
   "??": {
@@ -69,7 +69,7 @@
   },
   "CO": {
    "held": 0,
-   "lakes": 3,
+   "lakes": 4,
    "ledgers": 1,
    "off": 1,
    "on": 7,
@@ -123,7 +123,7 @@
   },
   "ID": {
    "held": 5,
-   "lakes": 3,
+   "lakes": 4,
    "ledgers": 3,
    "off": 1,
    "on": 6,
@@ -186,7 +186,7 @@
   },
   "MO": {
    "held": 9,
-   "lakes": 26,
+   "lakes": 32,
    "ledgers": 3,
    "off": 7,
    "on": 17,
@@ -194,13 +194,13 @@
    "surveyed": 0
   },
   "MT": {
-   "held": 19,
+   "held": 2769,
    "lakes": 736,
-   "ledgers": 5,
-   "off": 4,
-   "on": 3,
-   "open": 29,
-   "surveyed": 0
+   "ledgers": 515,
+   "off": 850,
+   "on": 683,
+   "open": 1363,
+   "surveyed": 515
   },
   "ND": {
    "held": 570,
@@ -276,7 +276,7 @@
   },
   "OR": {
    "held": 3,
-   "lakes": 3,
+   "lakes": 5,
    "ledgers": 2,
    "off": 6,
    "on": 1,
@@ -312,7 +312,7 @@
   },
   "WA": {
    "held": 14,
-   "lakes": 221,
+   "lakes": 222,
    "ledgers": 4,
    "off": 5,
    "on": 19,
@@ -321,7 +321,7 @@
   },
   "WI": {
    "held": 903,
-   "lakes": 602,
+   "lakes": 604,
    "ledgers": 565,
    "off": 1020,
    "on": 2900,
@@ -348,6 +348,22 @@
   }
  },
  "tests": {
+  "mt_every": {
+   "lakes": 209,
+   "off": 928,
+   "pct": 2.3706896551724137,
+   "takesOff": false,
+   "verdict": "DOES NOT PASS",
+   "wrong": 22
+  },
+  "mt_game": {
+   "lakes": 209,
+   "off": 913,
+   "pct": 2.8477546549835706,
+   "takesOff": false,
+   "verdict": "DOES NOT PASS",
+   "wrong": 26
+  },
   "nd_every": {
    "lakes": 303,
    "off": 978,
