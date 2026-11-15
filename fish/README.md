@@ -44,6 +44,15 @@ sport-fish list, its netting catches 2015-2025 and its stocking 2016-2026, read 
 name is asserted, with the years the nets found it. A game fish none of the three names is HELD BACK (`cover: page`). On the 222 lakes
 netted in five or more years the trout alone are taken off (`coverBy`): on the hold-out 0 of 884 such verdicts were wrong; walleye,
 pike and smallmouth were wrong 7 times of 443 (1.6 in 100: not the bar). Everyday fish are never taken off;
+**Connecticut DEEP, "Lake and Pond Regulations" page** (11-15: 98 of our 138 Connecticut lakes; source `portal.ct.gov`; the page's
+"Species:" line per lake in its own codes, read by `connecticut_to_evidence.py`; matched by name and size). What a line names is
+asserted (`park` + `ag: 1`; "S", the page's "Sunfish (Bluegill, Pumpkinseed)", asserts Bluegill; "T" is Trout). A line of four or
+more fish carries `cover: page` (88 lakes: a game fish it does not name is held back). Not tested (no second Connecticut record in
+hand): it takes nothing off;
+**RARE ON THE LAKE (11-15, data only):** a piece marked `rare` is a `report` (offered, not confirmed): Ontario, a fish under 5% of a
+lake's 8 or more survey points name (`at` of `of`; against the anglers' reports 1 of 37 such fish is reported often, 28 rarely);
+North Dakota and Montana, a fish the nets or surveys brought up in ONE year of five or more (`of`), not on the department's list and
+never stocked. Largemouth and bluegill are exempt (nets miss them). Holding such a fish back is the server's rule to come;
 **Montana Fish, Wildlife & Parks, fishViewer map service** (11-15: 515 lakes; source `fwp.mt.gov`; layer 51 Fish Survey Locations
 and layer 38 Fish Stocking Records, read by `montana_to_evidence.py`; credit: Montana Fish, Wildlife & Parks). A record is a lake's
 when its point is inside our box and its water name is ours. A fish the surveys brought up is asserted and DATED by its last survey

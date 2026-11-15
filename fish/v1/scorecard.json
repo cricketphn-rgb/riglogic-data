@@ -1,15 +1,15 @@
 {
  "all": {
-  "held": 6438,
-  "ledgers": 3893,
-  "off": 3583,
-  "on": 11687,
-  "open": 21115,
-  "pairs": 42823,
+  "held": 6826,
+  "ledgers": 3990,
+  "off": 3700,
+  "on": 11851,
+  "open": 21513,
+  "pairs": 43890,
   "surveyed": 1418
  },
  "bar": 0.5,
- "built": "2026-11-15 17:41 UTC",
+ "built": "2026-11-15 18:47 UTC",
  "lakes": 11143,
  "problems": [],
  "states": {
@@ -77,12 +77,12 @@
    "surveyed": 0
   },
   "CT": {
-   "held": 2,
+   "held": 390,
    "lakes": 138,
-   "ledgers": 1,
-   "off": 0,
-   "on": 6,
-   "open": 3,
+   "ledgers": 98,
+   "off": 117,
+   "on": 408,
+   "open": 163,
    "surveyed": 0
   },
   "FL": {
@@ -207,8 +207,8 @@
    "lakes": 271,
    "ledgers": 269,
    "off": 826,
-   "on": 1003,
-   "open": 560,
+   "on": 981,
+   "open": 582,
    "surveyed": 269
   },
   "NE": {
@@ -270,8 +270,8 @@
    "lakes": 3123,
    "ledgers": 2425,
    "off": 480,
-   "on": 6756,
-   "open": 17430,
+   "on": 6540,
+   "open": 17646,
    "surveyed": 634
   },
   "OR": {
