@@ -3,13 +3,13 @@
   "held": 8406,
   "ledgers": 4802,
   "off": 4294,
-  "on": 12706,
-  "open": 27416,
+  "on": 12714,
+  "open": 27408,
   "pairs": 52822,
   "surveyed": 2518
  },
  "bar": 0.5,
- "built": "2026-11-15 19:58 UTC",
+ "built": "2026-11-15 20:07 UTC",
  "lakes": 11143,
  "problems": [],
  "states": {
@@ -108,8 +108,8 @@
    "lakes": 5,
    "ledgers": 5,
    "off": 16,
-   "on": 25,
-   "open": 14,
+   "on": 33,
+   "open": 6,
    "surveyed": 0
   },
   "IA": {
