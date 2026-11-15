@@ -1,1 +1,1 @@
-{"k":"mt_cliff_lake_3","b":[-113.89313,48.16113,-113.8884,48.16444],"fish":{"Trout":[{"ag":1,"k":"report","n":12,"p":1,"s":"fwp.mt.gov","stk":1,"y":2023,"y0":1967}]},"n":"Cliff Lake (3)","st":"MT","sv":[{"m":"stocking","n":12,"s":"fwp.mt.gov","y":2023}]}
+{"k":"mt_cliff_lake_3","b":[-113.89313,48.16113,-113.8884,48.16444],"fish":{"Trout":[{"ag":1,"k":"park","n":1,"p":1,"s":"fwp.mt.gov","sy":2001,"y":2001,"y0":2001}]},"n":"Cliff Lake (3)","st":"MT","sv":[{"m":"survey","n":1,"s":"fwp.mt.gov","y":2001,"y0":2001},{"m":"stocking","n":12,"s":"fwp.mt.gov","y":2023}],"cover":"page"}

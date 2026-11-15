@@ -1,1 +1,1 @@
-{"k":"mt_hidden_lake","b":[-111.6042,44.71501,-111.59028,44.72478],"fish":{"Trout":[{"ag":1,"k":"report","n":4,"p":1,"s":"fwp.mt.gov","stk":1,"y":1947,"y0":1933}]},"n":"Hidden Lake","st":"MT","sv":[{"m":"stocking","n":4,"s":"fwp.mt.gov","y":1947}]}
+{"k":"mt_hidden_lake","b":[-111.6042,44.71501,-111.59028,44.72478],"fish":{"Trout":[{"ag":1,"k":"park","n":15,"p":1,"s":"fwp.mt.gov","sy":2002,"y":2002,"y0":1985}]},"n":"Hidden Lake","st":"MT","sv":[{"m":"survey","n":15,"s":"fwp.mt.gov","y":2002,"y0":1985},{"m":"stocking","n":4,"s":"fwp.mt.gov","y":1947}],"cover":"page"}

@@ -1,1 +1,1 @@
-{"k":"mt_glacier_lake","b":[-113.93901,47.04362,-113.93269,47.0458],"fish":{"Trout":[{"ag":1,"k":"report","n":3,"p":1,"s":"fwp.mt.gov","stk":1,"y":1953,"y0":1948}]},"n":"Glacier Lake","st":"MT","sv":[{"m":"stocking","n":3,"s":"fwp.mt.gov","y":1953}]}
+{"k":"mt_glacier_lake","b":[-113.93901,47.04362,-113.93269,47.0458],"fish":{"Trout":[{"ag":1,"k":"report","n":3,"p":1,"s":"fwp.mt.gov","stk":1,"y":1953,"y0":1948}]},"n":"Glacier Lake","st":"MT","sv":[{"m":"survey","n":1,"s":"fwp.mt.gov","y":2007,"y0":2007},{"m":"stocking","n":3,"s":"fwp.mt.gov","y":1953}],"cover":"page"}

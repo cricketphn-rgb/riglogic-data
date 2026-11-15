@@ -1,26 +1,26 @@
 {
  "all": {
-  "held": 8896,
-  "ledgers": 4996,
-  "off": 4858,
-  "on": 13677,
-  "open": 27525,
-  "pairs": 54956,
-  "surveyed": 2540
+  "held": 9167,
+  "ledgers": 5166,
+  "off": 5733,
+  "on": 14404,
+  "open": 27522,
+  "pairs": 56826,
+  "surveyed": 2727
  },
  "bar": 0.5,
- "built": "2026-11-15 20:27 UTC",
+ "built": "2026-11-15 21:07 UTC",
  "lakes": 11143,
  "problems": [],
  "states": {
   "??": {
-   "held": 0,
+   "held": 201,
    "lakes": 310,
-   "ledgers": 1,
-   "off": 5,
-   "on": 6,
+   "ledgers": 131,
+   "off": 714,
+   "on": 526,
    "open": 0,
-   "surveyed": 0
+   "surveyed": 130
   },
   "AK": {
    "held": 18,
@@ -131,13 +131,13 @@
    "surveyed": 0
   },
   "IL": {
-   "held": 27,
+   "held": 42,
    "lakes": 317,
-   "ledgers": 20,
-   "off": 46,
-   "on": 67,
-   "open": 80,
-   "surveyed": 0
+   "ledgers": 24,
+   "off": 53,
+   "on": 85,
+   "open": 84,
+   "surveyed": 6
   },
   "IN": {
    "held": 5,
@@ -167,13 +167,13 @@
    "surveyed": 0
   },
   "LA": {
-   "held": 23,
+   "held": 52,
    "lakes": 46,
-   "ledgers": 17,
-   "off": 93,
-   "on": 2,
-   "open": 69,
-   "surveyed": 0
+   "ledgers": 36,
+   "off": 200,
+   "on": 134,
+   "open": 10,
+   "surveyed": 33
   },
   "MA": {
    "held": 17,
@@ -212,22 +212,22 @@
    "surveyed": 0
   },
   "MS": {
-   "held": 1,
+   "held": 18,
    "lakes": 53,
-   "ledgers": 1,
-   "off": 5,
-   "on": 0,
-   "open": 5,
-   "surveyed": 0
+   "ledgers": 8,
+   "off": 38,
+   "on": 32,
+   "open": 0,
+   "surveyed": 8
   },
   "MT": {
-   "held": 2775,
+   "held": 2782,
    "lakes": 736,
-   "ledgers": 516,
-   "off": 852,
-   "on": 683,
-   "open": 1366,
-   "surveyed": 515
+   "ledgers": 525,
+   "off": 866,
+   "on": 704,
+   "open": 1423,
+   "surveyed": 524
   },
   "ND": {
    "held": 570,
@@ -329,13 +329,13 @@
    "surveyed": 0
   },
   "TN": {
-   "held": 2,
+   "held": 4,
    "lakes": 2,
-   "ledgers": 1,
-   "off": 1,
-   "on": 6,
+   "ledgers": 2,
+   "off": 6,
+   "on": 10,
    "open": 2,
-   "surveyed": 0
+   "surveyed": 1
   },
   "TX": {
    "held": 189,
@@ -403,20 +403,20 @@
  },
  "tests": {
   "mt_every": {
-   "lakes": 209,
-   "off": 928,
-   "pct": 2.3706896551724137,
+   "lakes": 214,
+   "off": 950,
+   "pct": 2.4210526315789473,
    "takesOff": false,
    "verdict": "DOES NOT PASS",
-   "wrong": 22
+   "wrong": 23
   },
   "mt_game": {
-   "lakes": 209,
-   "off": 913,
-   "pct": 2.8477546549835706,
+   "lakes": 214,
+   "off": 926,
+   "pct": 2.0518358531317493,
    "takesOff": false,
    "verdict": "DOES NOT PASS",
-   "wrong": 26
+   "wrong": 19
   },
   "nd_every": {
    "lakes": 303,

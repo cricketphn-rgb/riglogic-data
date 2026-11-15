@@ -1,1 +1,1 @@
-{"k":"mt_cherry_lake","b":[-112.90723,45.5711,-112.9044,45.57369],"fish":{"Trout":[{"ag":1,"k":"report","n":2,"p":1,"s":"fwp.mt.gov","stk":1,"y":2012,"y0":1946}]},"n":"Cherry Lake","st":"MT","sv":[{"m":"stocking","n":2,"s":"fwp.mt.gov","y":2012}]}
+{"k":"mt_cherry_lake","b":[-112.90723,45.5711,-112.9044,45.57369],"fish":{"Trout":[{"ag":1,"k":"report","n":2,"p":1,"s":"fwp.mt.gov","stk":1,"y":2012,"y0":1946}]},"n":"Cherry Lake","st":"MT","sv":[{"m":"survey","n":1,"s":"fwp.mt.gov","y":2008,"y0":2008},{"m":"stocking","n":2,"s":"fwp.mt.gov","y":2012}],"cover":"page"}
