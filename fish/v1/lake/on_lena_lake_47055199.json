@@ -1,1 +1,1 @@
-{"k":"on_lena_lake_47055199","b":[-86.34966,49.82958,-86.34334,49.83464],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Lena Lake","st":"ON"}
+{"k":"on_lena_lake_47055199","b":[-86.34966,49.82958,-86.34334,49.83464],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":10,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}]},"n":"Lena Lake","st":"ON","sv":[{"m":"stocking","n":10,"s":"ontario.ca","y":2025,"y0":2016}]}

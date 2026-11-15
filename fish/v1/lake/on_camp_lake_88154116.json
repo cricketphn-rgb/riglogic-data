@@ -1,1 +1,1 @@
-{"k":"on_camp_lake_88154116","b":[-82.5273,48.84559,-82.52213,48.85416],"fish":{"Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Camp Lake","st":"ON"}
+{"k":"on_camp_lake_88154116","b":[-82.5273,48.84559,-82.52213,48.85416],"fish":{"Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":10,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}]},"n":"Camp Lake","st":"ON","sv":[{"m":"stocking","n":10,"s":"ontario.ca","y":2025,"y0":2016}]}

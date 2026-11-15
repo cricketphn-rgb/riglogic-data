@@ -1,1 +1,1 @@
-{"k":"on_helenbar_lake_71851611","b":[-82.69138,46.58591,-82.66575,46.60522],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Helenbar Lake","st":"ON","cover":"page"}
+{"k":"on_helenbar_lake_71851611","b":[-82.69138,46.58591,-82.66575,46.60522],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":4,"p":1,"s":"ontario.ca","stk":1,"y":2024,"y0":2017}]},"n":"Helenbar Lake","st":"ON","sv":[{"m":"stocking","n":4,"s":"ontario.ca","y":2024,"y0":2017}],"cover":"page"}

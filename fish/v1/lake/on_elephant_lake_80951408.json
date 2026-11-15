@@ -1,1 +1,1 @@
-{"k":"on_elephant_lake_80951408","b":[-82.56104,46.40838,-82.54044,46.41522],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Elephant Lake","st":"ON"}
+{"k":"on_elephant_lake_80951408","b":[-82.56104,46.40838,-82.54044,46.41522],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":3,"p":1,"s":"ontario.ca","stk":1,"y":2023,"y0":2018}]},"n":"Elephant Lake","st":"ON","sv":[{"m":"stocking","n":3,"s":"ontario.ca","y":2023,"y0":2018}]}

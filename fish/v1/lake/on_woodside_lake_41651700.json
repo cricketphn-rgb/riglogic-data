@@ -1,1 +1,1 @@
-{"k":"on_woodside_lake_41651700","b":[-83.07352,46.66188,-83.06684,46.66574],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Woodside Lake","st":"ON"}
+{"k":"on_woodside_lake_41651700","b":[-83.07352,46.66188,-83.06684,46.66574],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":3,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Woodside Lake","st":"ON","sv":[{"m":"stocking","n":3,"s":"ontario.ca","y":2025,"y0":2017}]}

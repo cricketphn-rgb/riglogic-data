@@ -1,1 +1,1 @@
-{"k":"on_whitney_lake_95552284","b":[-79.74597,47.19642,-79.72994,47.20956],"fish":{"Lake Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Whitney Lake","st":"ON","lines":["Panfish"]}
+{"k":"on_whitney_lake_95552284","b":[-79.74597,47.19642,-79.72994,47.20956],"fish":{"Lake Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}],"Splake":[{"ag":1,"k":"stock","n":7,"p":1,"s":"ontario.ca","y":2024,"y0":2016}]},"n":"Whitney Lake","st":"ON","lines":["Panfish"],"sv":[{"m":"stocking","n":7,"s":"ontario.ca","y":2024,"y0":2016}]}

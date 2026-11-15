@@ -1,1 +1,1 @@
-{"k":"on_wylie_lake_89851117","b":[-77.73362,46.12557,-77.70702,46.13029],"fish":{"Yellow Perch":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Wylie Lake","st":"ON","lines":["Panfish"]}
+{"k":"on_wylie_lake_89851117","b":[-77.73362,46.12557,-77.70702,46.13029],"fish":{"Brook Trout":[{"ag":1,"k":"stock","n":9,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}],"Yellow Perch":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Wylie Lake","st":"ON","lines":["Panfish"],"sv":[{"m":"stocking","n":9,"s":"ontario.ca","y":2025,"y0":2016}]}

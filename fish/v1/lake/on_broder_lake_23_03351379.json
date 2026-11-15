@@ -1,1 +1,1 @@
-{"k":"on_broder_lake_23_03351379","b":[-80.96578,46.39393,-80.95003,46.40164],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Broder Lake 23","st":"ON"}
+{"k":"on_broder_lake_23_03351379","b":[-80.96578,46.39393,-80.95003,46.40164],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":9,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}]},"n":"Broder Lake 23","st":"ON","sv":[{"m":"stocking","n":9,"s":"ontario.ca","y":2025,"y0":2016}]}

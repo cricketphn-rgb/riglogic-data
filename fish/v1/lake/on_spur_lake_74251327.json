@@ -1,1 +1,1 @@
-{"k":"on_spur_lake_74251327","b":[-82.64104,46.3356,-82.62625,46.33998],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Spur Lake","st":"ON"}
+{"k":"on_spur_lake_74251327","b":[-82.64104,46.3356,-82.62625,46.33998],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Spur Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2025,"y0":2017}]}

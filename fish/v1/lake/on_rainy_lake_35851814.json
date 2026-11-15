@@ -1,1 +1,1 @@
-{"k":"on_rainy_lake_35851814","b":[-83.16844,46.76338,-83.13811,46.7693],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Rainy Lake","st":"ON"}
+{"k":"on_rainy_lake_35851814","b":[-83.16844,46.76338,-83.13811,46.7693],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":4,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}]},"n":"Rainy Lake","st":"ON","sv":[{"m":"stocking","n":4,"s":"ontario.ca","y":2025,"y0":2016}]}

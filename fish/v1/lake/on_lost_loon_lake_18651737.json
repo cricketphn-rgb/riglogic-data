@@ -1,1 +1,1 @@
-{"k":"on_lost_loon_lake_18651737","b":[-84.14564,46.68068,-84.13825,46.68298],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Lost Loon Lake","st":"ON"}
+{"k":"on_lost_loon_lake_18651737","b":[-84.14564,46.68068,-84.13825,46.68298],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":1,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2025}]},"n":"Lost Loon Lake","st":"ON","sv":[{"m":"stocking","n":1,"s":"ontario.ca","y":2025,"y0":2025}]}

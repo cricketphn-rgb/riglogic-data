@@ -1,1 +1,1 @@
-{"k":"on_wee_lake_31453113","b":[-81.92058,47.95257,-81.91691,47.95588],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Wee Lake","st":"ON"}
+{"k":"on_wee_lake_31453113","b":[-81.92058,47.95257,-81.91691,47.95588],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Wee Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2025,"y0":2017}]}

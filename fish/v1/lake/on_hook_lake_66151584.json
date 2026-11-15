@@ -1,1 +1,1 @@
-{"k":"on_hook_lake_66151584","b":[-82.75268,46.56711,-82.74601,46.57004],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Hook Lake","st":"ON"}
+{"k":"on_hook_lake_66151584","b":[-82.75268,46.56711,-82.74601,46.57004],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Hook Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2025,"y0":2017}]}

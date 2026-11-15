@@ -1,1 +1,1 @@
-{"k":"on_lake_no_9_03754852","b":[-82.33086,49.5116,-82.32857,49.51472],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Lake No. 9","st":"ON"}
+{"k":"on_lake_no_9_03754852","b":[-82.33086,49.5116,-82.32857,49.51472],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":10,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}]},"n":"Lake No. 9","st":"ON","sv":[{"m":"stocking","n":10,"s":"ontario.ca","y":2025,"y0":2016}]}

@@ -1,1 +1,1 @@
-{"k":"on_burdock_lake_89650047","b":[-78.59101,45.16989,-78.58225,45.17402],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Burdock Lake","st":"ON"}
+{"k":"on_burdock_lake_89650047","b":[-78.59101,45.16989,-78.58225,45.17402],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":9,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Burdock Lake","st":"ON","sv":[{"m":"stocking","n":9,"s":"ontario.ca","y":2025,"y0":2017}]}

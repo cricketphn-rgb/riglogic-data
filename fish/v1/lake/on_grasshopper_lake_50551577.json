@@ -1,1 +1,1 @@
-{"k":"on_grasshopper_lake_50551577","b":[-82.95282,46.55523,-82.948,46.55668],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Grasshopper Lake","st":"ON"}
+{"k":"on_grasshopper_lake_50551577","b":[-82.95282,46.55523,-82.948,46.55668],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":2,"p":1,"s":"ontario.ca","stk":1,"y":2023,"y0":2018}]},"n":"Grasshopper Lake","st":"ON","sv":[{"m":"stocking","n":2,"s":"ontario.ca","y":2023,"y0":2018}]}

@@ -1,1 +1,1 @@
-{"k":"on_south_lake_67651456","b":[-82.72694,46.44579,-82.71547,46.45789],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"South Lake","st":"ON"}
+{"k":"on_south_lake_67651456","b":[-82.72694,46.44579,-82.71547,46.45789],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":4,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2018}]},"n":"South Lake","st":"ON","sv":[{"m":"stocking","n":4,"s":"ontario.ca","y":2025,"y0":2018}]}

@@ -1,1 +1,1 @@
-{"k":"on_silver_buck_lake_73650031","b":[-78.79674,45.15923,-78.78795,45.16507],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Silver Buck Lake","st":"ON"}
+{"k":"on_silver_buck_lake_73650031","b":[-78.79674,45.15923,-78.78795,45.16507],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2024,"y0":2016}]},"n":"Silver Buck Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2024,"y0":2016}]}

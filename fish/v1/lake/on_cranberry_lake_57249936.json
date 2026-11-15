@@ -1,1 +1,1 @@
-{"k":"on_cranberry_lake_57249936","b":[-76.81728,45.08073,-76.81167,45.08537],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Cranberry Lake","st":"ON"}
+{"k":"on_cranberry_lake_57249936","b":[-76.81728,45.08073,-76.81167,45.08537],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":4,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Cranberry Lake","st":"ON","sv":[{"m":"stocking","n":4,"s":"ontario.ca","y":2025,"y0":2017}]}

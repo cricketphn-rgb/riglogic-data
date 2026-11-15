@@ -1,1 +1,1 @@
-{"k":"on_jackpine_lake_22551473","b":[-83.31589,46.45602,-83.30693,46.46012],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Jackpine Lake","st":"ON"}
+{"k":"on_jackpine_lake_22551473","b":[-83.31589,46.45602,-83.30693,46.46012],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":4,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}]},"n":"Jackpine Lake","st":"ON","sv":[{"m":"stocking","n":4,"s":"ontario.ca","y":2025,"y0":2016}]}

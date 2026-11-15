@@ -1,1 +1,1 @@
-{"k":"on_klaxon_lake_86250035","b":[-78.64008,45.15504,-78.62324,45.1665],"fish":{"Lake Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Klaxon Lake","st":"ON"}
+{"k":"on_klaxon_lake_86250035","b":[-78.64008,45.15504,-78.62324,45.1665],"fish":{"Lake Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":3,"p":1,"s":"ontario.ca","stk":1,"y":2018,"y0":2016}]},"n":"Klaxon Lake","st":"ON","sv":[{"m":"stocking","n":3,"s":"ontario.ca","y":2018,"y0":2016}]}

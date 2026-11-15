@@ -1,1 +1,1 @@
-{"k":"on_burnt_lake_74351703","b":[-82.64827,46.67297,-82.63832,46.67761],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Burnt Lake","st":"ON"}
+{"k":"on_burnt_lake_74351703","b":[-82.64827,46.67297,-82.63832,46.67761],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":3,"p":1,"s":"ontario.ca","stk":1,"y":2023,"y0":2017}]},"n":"Burnt Lake","st":"ON","sv":[{"m":"stocking","n":3,"s":"ontario.ca","y":2023,"y0":2017}]}

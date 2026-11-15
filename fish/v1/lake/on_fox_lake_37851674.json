@@ -1,1 +1,1 @@
-{"k":"on_fox_lake_37851674","b":[-83.12059,46.64071,-83.11556,46.64305],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Fox Lake","st":"ON"}
+{"k":"on_fox_lake_37851674","b":[-83.12059,46.64071,-83.11556,46.64305],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":2,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2020}]},"n":"Fox Lake","st":"ON","sv":[{"m":"stocking","n":2,"s":"ontario.ca","y":2025,"y0":2020}]}

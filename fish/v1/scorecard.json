@@ -1,15 +1,15 @@
 {
  "all": {
-  "held": 8174,
-  "ledgers": 4621,
+  "held": 8170,
+  "ledgers": 4667,
   "off": 3880,
-  "on": 12228,
-  "open": 26549,
-  "pairs": 50831,
-  "surveyed": 2058
+  "on": 12261,
+  "open": 27026,
+  "pairs": 51337,
+  "surveyed": 2518
  },
  "bar": 0.5,
- "built": "2026-11-15 19:05 UTC",
+ "built": "2026-11-15 19:28 UTC",
  "lakes": 11143,
  "problems": [],
  "states": {
@@ -266,13 +266,13 @@
    "surveyed": 0
   },
   "ON": {
-   "held": 2009,
+   "held": 2005,
    "lakes": 3123,
-   "ledgers": 2425,
+   "ledgers": 2471,
    "off": 480,
-   "on": 6540,
-   "open": 17646,
-   "surveyed": 634
+   "on": 6573,
+   "open": 18123,
+   "surveyed": 1094
   },
   "OR": {
    "held": 3,

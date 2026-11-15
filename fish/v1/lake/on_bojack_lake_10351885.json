@@ -1,1 +1,1 @@
-{"k":"on_bojack_lake_10351885","b":[-84.25198,46.81586,-84.23587,46.82135],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Bojack Lake","st":"ON"}
+{"k":"on_bojack_lake_10351885","b":[-84.25198,46.81586,-84.23587,46.82135],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Bojack Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2025,"y0":2017}]}

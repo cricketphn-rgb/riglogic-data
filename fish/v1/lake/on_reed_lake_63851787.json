@@ -1,1 +1,1 @@
-{"k":"on_reed_lake_63851787","b":[-82.79116,46.74513,-82.78562,46.7485],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Reed Lake","st":"ON"}
+{"k":"on_reed_lake_63851787","b":[-82.79116,46.74513,-82.78562,46.7485],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":3,"p":1,"s":"ontario.ca","stk":1,"y":2023,"y0":2017}]},"n":"Reed Lake","st":"ON","sv":[{"m":"stocking","n":3,"s":"ontario.ca","y":2023,"y0":2017}]}

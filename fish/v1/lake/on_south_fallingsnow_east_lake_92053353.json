@@ -1,1 +1,1 @@
-{"k":"on_south_fallingsnow_east_lake_92053353","b":[-89.79848,48.13702,-89.79186,48.14088],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"South Fallingsnow East Lake","st":"ON"}
+{"k":"on_south_fallingsnow_east_lake_92053353","b":[-89.79848,48.13702,-89.79186,48.14088],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2018}]},"n":"South Fallingsnow East Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2025,"y0":2018}]}

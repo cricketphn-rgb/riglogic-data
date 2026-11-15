@@ -1,1 +1,1 @@
-{"k":"on_walkaround_lake_78251253","b":[-82.58335,46.27056,-82.57703,46.27376],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Walkaround Lake","st":"ON"}
+{"k":"on_walkaround_lake_78251253","b":[-82.58335,46.27056,-82.57703,46.27376],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":4,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Walkaround Lake","st":"ON","sv":[{"m":"stocking","n":4,"s":"ontario.ca","y":2025,"y0":2017}]}

@@ -1,1 +1,1 @@
-{"k":"on_grant_lake_90751568","b":[-83.73426,46.53363,-83.72676,46.53622],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Grant Lake","st":"ON"}
+{"k":"on_grant_lake_90751568","b":[-83.73426,46.53363,-83.72676,46.53622],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":10,"p":1,"s":"ontario.ca","stk":1,"y":2026,"y0":2016}]},"n":"Grant Lake","st":"ON","sv":[{"m":"stocking","n":10,"s":"ontario.ca","y":2026,"y0":2016}]}

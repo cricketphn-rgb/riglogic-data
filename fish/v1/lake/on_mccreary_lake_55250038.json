@@ -1,1 +1,1 @@
-{"k":"on_mccreary_lake_55250038","b":[-76.84471,45.17154,-76.84011,45.1771],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"McCreary Lake","st":"ON"}
+{"k":"on_mccreary_lake_55250038","b":[-76.84471,45.17154,-76.84011,45.1771],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2024,"y0":2016}]},"n":"McCreary Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2024,"y0":2016}]}

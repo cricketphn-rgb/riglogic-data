@@ -1,1 +1,1 @@
-{"k":"on_sturgeon_lake_27_21051786","b":[-83.34656,46.738,-83.34195,46.7405],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Sturgeon Lake 27","st":"ON"}
+{"k":"on_sturgeon_lake_27_21051786","b":[-83.34656,46.738,-83.34195,46.7405],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":2,"p":1,"s":"ontario.ca","stk":1,"y":2024,"y0":2021}]},"n":"Sturgeon Lake 27","st":"ON","sv":[{"m":"stocking","n":2,"s":"ontario.ca","y":2024,"y0":2021}]}

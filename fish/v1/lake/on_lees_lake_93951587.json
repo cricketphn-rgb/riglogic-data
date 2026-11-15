@@ -1,1 +1,1 @@
-{"k":"on_lees_lake_93951587","b":[-83.69156,46.55121,-83.6865,46.55382],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Lees Lake","st":"ON"}
+{"k":"on_lees_lake_93951587","b":[-83.69156,46.55121,-83.6865,46.55382],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":4,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Lees Lake","st":"ON","sv":[{"m":"stocking","n":4,"s":"ontario.ca","y":2025,"y0":2017}]}

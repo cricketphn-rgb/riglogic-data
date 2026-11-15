@@ -1,1 +1,1 @@
-{"k":"on_tiny_lake_30351668","b":[-83.21944,46.63236,-83.21508,46.63383],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Tiny Lake","st":"ON"}
+{"k":"on_tiny_lake_30351668","b":[-83.21944,46.63236,-83.21508,46.63383],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":2,"p":1,"s":"ontario.ca","stk":1,"y":2023,"y0":2018}]},"n":"Tiny Lake","st":"ON","sv":[{"m":"stocking","n":2,"s":"ontario.ca","y":2023,"y0":2018}]}

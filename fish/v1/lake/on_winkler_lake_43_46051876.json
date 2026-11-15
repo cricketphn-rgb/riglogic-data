@@ -1,1 +1,1 @@
-{"k":"on_winkler_lake_43_46051876","b":[-83.02234,46.82256,-83.01817,46.82563],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Winkler Lake 43","st":"ON"}
+{"k":"on_winkler_lake_43_46051876","b":[-83.02234,46.82256,-83.01817,46.82563],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Winkler Lake 43","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2025,"y0":2017}]}

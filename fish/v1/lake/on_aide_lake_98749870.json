@@ -1,1 +1,1 @@
-{"k":"on_aide_lake_98749870","b":[-77.55889,45.00358,-77.54566,45.01422],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Aide Lake","st":"ON","lines":["Panfish"]}
+{"k":"on_aide_lake_98749870","b":[-77.55889,45.00358,-77.54566,45.01422],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Aide Lake","st":"ON","lines":["Panfish"],"sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2025,"y0":2017}]}

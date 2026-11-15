@@ -1,1 +1,1 @@
-{"k":"on_mcdowall_lake_30049727","b":[-77.15454,44.8878,-77.15017,44.89066],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"McDowall Lake","st":"ON"}
+{"k":"on_mcdowall_lake_30049727","b":[-77.15454,44.8878,-77.15017,44.89066],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2024,"y0":2016}]},"n":"McDowall Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2024,"y0":2016}]}

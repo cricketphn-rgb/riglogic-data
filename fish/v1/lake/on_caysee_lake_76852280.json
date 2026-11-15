@@ -1,1 +1,1 @@
-{"k":"on_caysee_lake_76852280","b":[-84.67224,47.1799,-84.65157,47.18473],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Caysee Lake","st":"ON"}
+{"k":"on_caysee_lake_76852280","b":[-84.67224,47.1799,-84.65157,47.18473],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2026,"y0":2016}]},"n":"Caysee Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2026,"y0":2016}]}

@@ -1,1 +1,1 @@
-{"k":"on_walker_lake_91250637","b":[-77.68669,45.69494,-77.67731,45.69931],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Walker Lake","st":"ON","lines":["Panfish"]}
+{"k":"on_walker_lake_91250637","b":[-77.68669,45.69494,-77.67731,45.69931],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":9,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}]},"n":"Walker Lake","st":"ON","lines":["Panfish"],"sv":[{"m":"stocking","n":9,"s":"ontario.ca","y":2025,"y0":2016}]}

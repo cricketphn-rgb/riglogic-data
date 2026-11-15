@@ -1,1 +1,1 @@
-{"k":"on_rheaume_lake_93851591","b":[-83.69287,46.55464,-83.68687,46.55747],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Rheaume Lake","st":"ON"}
+{"k":"on_rheaume_lake_93851591","b":[-83.69287,46.55464,-83.68687,46.55747],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":4,"p":1,"s":"ontario.ca","stk":1,"y":2026,"y0":2017}]},"n":"Rheaume Lake","st":"ON","sv":[{"m":"stocking","n":4,"s":"ontario.ca","y":2026,"y0":2017}]}

@@ -1,1 +1,1 @@
-{"k":"on_chub_lake_09253506","b":[-89.57461,48.28004,-89.56841,48.28458],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Chub Lake","st":"ON"}
+{"k":"on_chub_lake_09253506","b":[-89.57461,48.28004,-89.56841,48.28458],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":10,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}]},"n":"Chub Lake","st":"ON","sv":[{"m":"stocking","n":10,"s":"ontario.ca","y":2025,"y0":2016}]}

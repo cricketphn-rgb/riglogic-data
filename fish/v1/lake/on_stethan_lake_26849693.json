@@ -1,1 +1,1 @@
-{"k":"on_stethan_lake_26849693","b":[-78.13128,44.84095,-78.12873,44.84494],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Stethan Lake","st":"ON"}
+{"k":"on_stethan_lake_26849693","b":[-78.13128,44.84095,-78.12873,44.84494],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2024,"y0":2016}]},"n":"Stethan Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2024,"y0":2016}]}

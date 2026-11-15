@@ -1,1 +1,1 @@
-{"k":"on_silver_doe_lake_73450036","b":[-78.79721,45.16503,-78.79247,45.16764],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Silver Doe Lake","st":"ON"}
+{"k":"on_silver_doe_lake_73450036","b":[-78.79721,45.16503,-78.79247,45.16764],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2024,"y0":2016}]},"n":"Silver Doe Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2024,"y0":2016}]}

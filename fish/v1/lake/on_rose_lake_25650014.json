@@ -1,1 +1,1 @@
-{"k":"on_rose_lake_25650014","b":[-77.22052,45.14508,-77.21497,45.14736],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Rose Lake","st":"ON"}
+{"k":"on_rose_lake_25650014","b":[-77.22052,45.14508,-77.21497,45.14736],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":10,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}]},"n":"Rose Lake","st":"ON","sv":[{"m":"stocking","n":10,"s":"ontario.ca","y":2025,"y0":2016}]}

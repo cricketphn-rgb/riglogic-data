@@ -1,1 +1,1 @@
-{"k":"on_bullseye_lake_52549914","b":[-76.87342,45.06125,-76.8713,45.06318],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Bullseye Lake","st":"ON"}
+{"k":"on_bullseye_lake_52549914","b":[-76.87342,45.06125,-76.8713,45.06318],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2024,"y0":2016}]},"n":"Bullseye Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2024,"y0":2016}]}

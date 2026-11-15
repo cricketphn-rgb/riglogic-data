@@ -1,1 +1,1 @@
-{"k":"on_raindrop_lake_51449925","b":[-76.88868,45.07013,-76.8849,45.07428],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Raindrop Lake","st":"ON"}
+{"k":"on_raindrop_lake_51449925","b":[-76.88868,45.07013,-76.8849,45.07428],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Raindrop Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2025,"y0":2017}]}

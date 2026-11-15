@@ -1,1 +1,1 @@
-{"k":"on_loon_lake_55051798","b":[-82.90478,46.7539,-82.89211,46.76107],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Loon Lake","st":"ON"}
+{"k":"on_loon_lake_55051798","b":[-82.90478,46.7539,-82.89211,46.76107],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":3,"p":1,"s":"ontario.ca","stk":1,"y":2024,"y0":2017}]},"n":"Loon Lake","st":"ON","sv":[{"m":"stocking","n":3,"s":"ontario.ca","y":2024,"y0":2017}]}

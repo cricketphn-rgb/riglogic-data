@@ -1,1 +1,1 @@
-{"k":"on_lowry_lake_16949787","b":[-78.25795,44.92817,-78.24699,44.93533],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Lowry Lake","st":"ON"}
+{"k":"on_lowry_lake_16949787","b":[-78.25795,44.92817,-78.24699,44.93533],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Lowry Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2025,"y0":2017}]}

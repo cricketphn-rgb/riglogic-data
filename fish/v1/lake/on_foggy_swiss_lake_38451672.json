@@ -1,1 +1,1 @@
-{"k":"on_foggy_swiss_lake_38451672","b":[-83.11456,46.63572,-83.10667,46.64272],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Foggy Swiss Lake","st":"ON"}
+{"k":"on_foggy_swiss_lake_38451672","b":[-83.11456,46.63572,-83.10667,46.64272],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":2,"p":1,"s":"ontario.ca","stk":1,"y":2021,"y0":2016}]},"n":"Foggy Swiss Lake","st":"ON","sv":[{"m":"stocking","n":2,"s":"ontario.ca","y":2021,"y0":2016}]}

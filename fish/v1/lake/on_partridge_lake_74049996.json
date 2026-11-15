@@ -1,1 +1,1 @@
-{"k":"on_partridge_lake_74049996","b":[-78.79041,45.12969,-78.78486,45.13163],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Partridge Lake","st":"ON"}
+{"k":"on_partridge_lake_74049996","b":[-78.79041,45.12969,-78.78486,45.13163],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":9,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Partridge Lake","st":"ON","sv":[{"m":"stocking","n":9,"s":"ontario.ca","y":2025,"y0":2017}]}

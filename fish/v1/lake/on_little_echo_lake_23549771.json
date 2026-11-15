@@ -1,1 +1,1 @@
-{"k":"on_little_echo_lake_23549771","b":[-78.17143,44.91272,-78.16565,44.91478],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Little Echo Lake","st":"ON"}
+{"k":"on_little_echo_lake_23549771","b":[-78.17143,44.91272,-78.16565,44.91478],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Little Echo Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2025,"y0":2017}]}

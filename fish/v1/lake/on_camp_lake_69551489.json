@@ -1,1 +1,1 @@
-{"k":"on_camp_lake_69551489","b":[-82.69868,46.48117,-82.69281,46.48319],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Camp Lake","st":"ON"}
+{"k":"on_camp_lake_69551489","b":[-82.69868,46.48117,-82.69281,46.48319],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Camp Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2025,"y0":2017}]}

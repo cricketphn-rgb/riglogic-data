@@ -51,6 +51,11 @@ ADDS ONLY, no cover. A plant since 2016 or plants in three or more years is `sto
 bluegill and largemouth (tested on Wisconsin's stocking against Wisconsin's lake pages: walleye 151 of 156, pike 25 of 26, the
 others 60 of 60); smallmouth, the trout, channel catfish, an older one-off plant and any fish last planted over 25 years ago are a
 `report` (offered, not confirmed). It is not a lake's list: it names only what the state plants;
+**Ontario MNR, Fish stocking data for recreational purposes** (11-15: 546 of our Ontario lakes; source `ontario.ca`; every plant
+2016 to today, joined by the waterbody location identifier, read by `ontario_stocking_to_evidence.py`; **Contains information
+licensed under the Open Government Licence - Ontario.**). ADDS ONLY, no cover. A planted fish is `stock` (dated); a cold-water fish
+on a lake the province does not class Cold is a `report`. Against the province's angler reports (lakes with 10+ surveys) anglers
+report the planted fish on 264 of 285 lake-fish pairs;
 **Connecticut DEEP, "Lake and Pond Regulations" page** (11-15: 98 of our 138 Connecticut lakes; source `portal.ct.gov`; the page's
 "Species:" line per lake in its own codes, read by `connecticut_to_evidence.py`; matched by name and size). What a line names is
 asserted (`park` + `ag: 1`; "S", the page's "Sunfish (Bluegill, Pumpkinseed)", asserts Bluegill; "T" is Trout). A line of four or

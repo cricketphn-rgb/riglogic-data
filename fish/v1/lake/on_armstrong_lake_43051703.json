@@ -1,1 +1,1 @@
-{"k":"on_armstrong_lake_43051703","b":[-83.05667,46.66845,-83.04658,46.67173],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Armstrong Lake","st":"ON"}
+{"k":"on_armstrong_lake_43051703","b":[-83.05667,46.66845,-83.04658,46.67173],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":3,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2019}]},"n":"Armstrong Lake","st":"ON","sv":[{"m":"stocking","n":3,"s":"ontario.ca","y":2025,"y0":2019}]}

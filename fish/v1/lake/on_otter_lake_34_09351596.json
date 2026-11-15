@@ -1,1 +1,1 @@
-{"k":"on_otter_lake_34_09351596","b":[-83.49186,46.56319,-83.48555,46.56523],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Otter Lake 34","st":"ON"}
+{"k":"on_otter_lake_34_09351596","b":[-83.49186,46.56319,-83.48555,46.56523],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":3,"p":1,"s":"ontario.ca","stk":1,"y":2024,"y0":2018}]},"n":"Otter Lake 34","st":"ON","sv":[{"m":"stocking","n":3,"s":"ontario.ca","y":2024,"y0":2018}]}

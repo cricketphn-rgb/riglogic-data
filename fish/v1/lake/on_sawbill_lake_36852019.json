@@ -1,1 +1,1 @@
-{"k":"on_sawbill_lake_36852019","b":[-83.15315,46.95045,-83.13906,46.95439],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Sawbill Lake","st":"ON"}
+{"k":"on_sawbill_lake_36852019","b":[-83.15315,46.95045,-83.13906,46.95439],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":4,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}]},"n":"Sawbill Lake","st":"ON","sv":[{"m":"stocking","n":4,"s":"ontario.ca","y":2025,"y0":2016}]}

@@ -1,1 +1,1 @@
-{"k":"on_laurence_lake_09751982","b":[-83.50093,46.90988,-83.49631,46.91412],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Laurence Lake","st":"ON","lines":["Panfish"]}
+{"k":"on_laurence_lake_09751982","b":[-83.50093,46.90988,-83.49631,46.91412],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":7,"p":1,"s":"ontario.ca","stk":1,"y":2026,"y0":2016}]},"n":"Laurence Lake","st":"ON","lines":["Panfish"],"sv":[{"m":"stocking","n":7,"s":"ontario.ca","y":2026,"y0":2016}]}

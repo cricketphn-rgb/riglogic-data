@@ -1,1 +1,1 @@
-{"k":"on_rioux_lake_10_25751829","b":[-83.28787,46.77685,-83.27968,46.78055],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Rioux Lake 10","st":"ON"}
+{"k":"on_rioux_lake_10_25751829","b":[-83.28787,46.77685,-83.27968,46.78055],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":3,"p":1,"s":"ontario.ca","stk":1,"y":2024,"y0":2017}]},"n":"Rioux Lake 10","st":"ON","sv":[{"m":"stocking","n":3,"s":"ontario.ca","y":2024,"y0":2017}]}

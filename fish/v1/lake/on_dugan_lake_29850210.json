@@ -1,1 +1,1 @@
-{"k":"on_dugan_lake_29850210","b":[-77.1739,45.32207,-77.16566,45.3253],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Dugan Lake","st":"ON","lines":["Panfish"]}
+{"k":"on_dugan_lake_29850210","b":[-77.1739,45.32207,-77.16566,45.3253],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":9,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}]},"n":"Dugan Lake","st":"ON","lines":["Panfish"],"sv":[{"m":"stocking","n":9,"s":"ontario.ca","y":2025,"y0":2016}]}

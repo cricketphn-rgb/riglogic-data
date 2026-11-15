@@ -1,1 +1,1 @@
-{"k":"on_guilford_lake_96750057","b":[-78.50587,45.1757,-78.48821,45.18379],"fish":{"Yellow Perch":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Guilford Lake","st":"ON","lines":["Panfish"]}
+{"k":"on_guilford_lake_96750057","b":[-78.50587,45.1757,-78.48821,45.18379],"fish":{"Splake":[{"ag":1,"k":"stock","n":4,"p":1,"s":"ontario.ca","y":2024,"y0":2016}],"Yellow Perch":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Guilford Lake","st":"ON","lines":["Panfish"],"sv":[{"m":"stocking","n":4,"s":"ontario.ca","y":2024,"y0":2016}]}

@@ -1,1 +1,1 @@
-{"k":"on_pistol_lake_58651340","b":[-82.84802,46.34158,-82.81971,46.34932],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Pistol Lake","st":"ON"}
+{"k":"on_pistol_lake_58651340","b":[-82.84802,46.34158,-82.81971,46.34932],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":3,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}]},"n":"Pistol Lake","st":"ON","sv":[{"m":"stocking","n":3,"s":"ontario.ca","y":2025,"y0":2016}]}

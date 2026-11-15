@@ -1,1 +1,1 @@
-{"k":"on_barr_lake_30451731","b":[-83.22421,46.68389,-83.20784,46.70118],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Barr Lake","st":"ON"}
+{"k":"on_barr_lake_30451731","b":[-83.22421,46.68389,-83.20784,46.70118],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":3,"p":1,"s":"ontario.ca","stk":1,"y":2023,"y0":2017}]},"n":"Barr Lake","st":"ON","sv":[{"m":"stocking","n":3,"s":"ontario.ca","y":2023,"y0":2017}]}

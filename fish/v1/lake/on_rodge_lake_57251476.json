@@ -1,1 +1,1 @@
-{"k":"on_rodge_lake_57251476","b":[-82.87343,46.46326,-82.84595,46.47298],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Rodge Lake","st":"ON"}
+{"k":"on_rodge_lake_57251476","b":[-82.87343,46.46326,-82.84595,46.47298],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":3,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2018}]},"n":"Rodge Lake","st":"ON","sv":[{"m":"stocking","n":3,"s":"ontario.ca","y":2025,"y0":2018}]}

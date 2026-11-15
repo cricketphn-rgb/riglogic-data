@@ -1,1 +1,1 @@
-{"k":"on_metivier_lake_74551787","b":[-83.95685,46.7231,-83.94143,46.72896],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Metivier Lake","st":"ON"}
+{"k":"on_metivier_lake_74551787","b":[-83.95685,46.7231,-83.94143,46.72896],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2024,"y0":2017}]},"n":"Metivier Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2024,"y0":2017}]}

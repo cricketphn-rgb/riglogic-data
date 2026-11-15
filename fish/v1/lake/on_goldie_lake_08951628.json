@@ -1,1 +1,1 @@
-{"k":"on_goldie_lake_08951628","b":[-83.49923,46.59182,-83.49186,46.59582],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Goldie Lake","st":"ON"}
+{"k":"on_goldie_lake_08951628","b":[-83.49923,46.59182,-83.49186,46.59582],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":4,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Goldie Lake","st":"ON","sv":[{"m":"stocking","n":4,"s":"ontario.ca","y":2025,"y0":2017}]}

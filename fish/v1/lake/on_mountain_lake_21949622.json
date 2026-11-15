@@ -1,1 +1,1 @@
-{"k":"on_mountain_lake_21949622","b":[-78.19821,44.77884,-78.19396,44.78178],"fish":{"Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Mountain Lake","st":"ON"}
+{"k":"on_mountain_lake_21949622","b":[-78.19821,44.77884,-78.19396,44.78178],"fish":{"Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":10,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}]},"n":"Mountain Lake","st":"ON","sv":[{"m":"stocking","n":10,"s":"ontario.ca","y":2025,"y0":2016}]}

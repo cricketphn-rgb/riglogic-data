@@ -1,1 +1,1 @@
-{"k":"on_echo_lake_85153572","b":[-89.89778,48.32345,-89.88813,48.32735],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Echo Lake","st":"ON"}
+{"k":"on_echo_lake_85153572","b":[-89.89778,48.32345,-89.88813,48.32735],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Echo Lake","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2025,"y0":2017}]}

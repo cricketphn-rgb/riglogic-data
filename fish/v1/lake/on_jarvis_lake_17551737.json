@@ -1,1 +1,1 @@
-{"k":"on_jarvis_lake_17551737","b":[-84.17119,46.67967,-84.13866,46.68993],"fish":{"Lake Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Jarvis Lake","st":"ON"}
+{"k":"on_jarvis_lake_17551737","b":[-84.17119,46.67967,-84.13866,46.68993],"fish":{"Lake Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":6,"p":1,"s":"ontario.ca","stk":1,"y":2022,"y0":2016}]},"n":"Jarvis Lake","st":"ON","sv":[{"m":"stocking","n":6,"s":"ontario.ca","y":2022,"y0":2016}]}

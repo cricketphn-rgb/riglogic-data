@@ -1,1 +1,1 @@
-{"k":"on_godin_lake_31250165","b":[-77.15768,45.27986,-77.14576,45.28592],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Godin Lake","st":"ON"}
+{"k":"on_godin_lake_31250165","b":[-77.15768,45.27986,-77.14576,45.28592],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":10,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}]},"n":"Godin Lake","st":"ON","sv":[{"m":"stocking","n":10,"s":"ontario.ca","y":2025,"y0":2016}]}

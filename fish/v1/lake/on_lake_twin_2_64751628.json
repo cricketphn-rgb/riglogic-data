@@ -1,1 +1,1 @@
-{"k":"on_lake_twin_2_64751628","b":[-82.77032,46.60544,-82.76405,46.60832],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Lake Twin 2","st":"ON"}
+{"k":"on_lake_twin_2_64751628","b":[-82.77032,46.60544,-82.76405,46.60832],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2017}]},"n":"Lake Twin 2","st":"ON","sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2025,"y0":2017}]}

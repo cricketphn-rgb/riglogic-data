@@ -1,1 +1,1 @@
-{"k":"on_bat_lake_86150020","b":[-78.64094,45.14371,-78.62343,45.15348],"fish":{"Yellow Perch":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Bat Lake","st":"ON","lines":["Panfish"]}
+{"k":"on_bat_lake_86150020","b":[-78.64094,45.14371,-78.62343,45.15348],"fish":{"Splake":[{"ag":1,"k":"stock","n":5,"p":1,"s":"ontario.ca","y":2025,"y0":2017}],"Yellow Perch":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Bat Lake","st":"ON","lines":["Panfish"],"sv":[{"m":"stocking","n":5,"s":"ontario.ca","y":2025,"y0":2017}]}

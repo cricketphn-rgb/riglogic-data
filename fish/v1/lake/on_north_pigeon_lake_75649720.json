@@ -1,1 +1,1 @@
-{"k":"on_north_pigeon_lake_75649720","b":[-78.78064,44.87404,-78.77117,44.88802],"fish":{"Lake Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"North Pigeon Lake","st":"ON"}
+{"k":"on_north_pigeon_lake_75649720","b":[-78.78064,44.87404,-78.77117,44.88802],"fish":{"Lake Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":9,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}]},"n":"North Pigeon Lake","st":"ON","sv":[{"m":"stocking","n":9,"s":"ontario.ca","y":2025,"y0":2016}]}

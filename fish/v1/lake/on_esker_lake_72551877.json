@@ -1,1 +1,1 @@
-{"k":"on_esker_lake_72551877","b":[-82.67794,46.82931,-82.66486,46.83922],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Esker Lake","st":"ON"}
+{"k":"on_esker_lake_72551877","b":[-82.67794,46.82931,-82.66486,46.83922],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":4,"p":1,"s":"ontario.ca","stk":1,"y":2023,"y0":2016}]},"n":"Esker Lake","st":"ON","sv":[{"m":"stocking","n":4,"s":"ontario.ca","y":2023,"y0":2016}]}

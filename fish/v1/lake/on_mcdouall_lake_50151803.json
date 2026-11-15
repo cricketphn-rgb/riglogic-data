@@ -1,1 +1,1 @@
-{"k":"on_mcdouall_lake_50151803","b":[-82.96784,46.75798,-82.95981,46.76236],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"McDouall Lake","st":"ON"}
+{"k":"on_mcdouall_lake_50151803","b":[-82.96784,46.75798,-82.95981,46.76236],"fish":{"Brook Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":3,"p":1,"s":"ontario.ca","stk":1,"y":2023,"y0":2018}]},"n":"McDouall Lake","st":"ON","sv":[{"m":"stocking","n":3,"s":"ontario.ca","y":2023,"y0":2018}]}

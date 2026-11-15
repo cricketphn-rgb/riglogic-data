@@ -1,1 +1,1 @@
-{"k":"on_summit_lake_54949895","b":[-76.8512,45.03766,-76.83779,45.05114],"fish":{"Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"}]},"n":"Summit Lake","st":"ON","lines":["Panfish"],"cover":"page"}
+{"k":"on_summit_lake_54949895","b":[-76.8512,45.03766,-76.83779,45.05114],"fish":{"Trout":[{"ag":1,"k":"park","p":1,"s":"ontario.ca"},{"ag":1,"k":"stock","n":9,"p":1,"s":"ontario.ca","stk":1,"y":2025,"y0":2016}]},"n":"Summit Lake","st":"ON","lines":["Panfish"],"sv":[{"m":"stocking","n":9,"s":"ontario.ca","y":2025,"y0":2016}],"cover":"page"}
