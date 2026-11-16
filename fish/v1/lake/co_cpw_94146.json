@@ -1,1 +1,1 @@
-{"k":"co_cpw_94146","b":[-107.62502,38.45171,-107.5381,38.5107],"fish":{"Kokanee":[{"k":"park","p":1,"s":"nps.gov"}],"Trout":[{"ag":1,"k":"report","p":1,"s":"cpw.state.co.us Fishing Atlas","stk":1,"y":2025}]},"n":"Crystal Reservoir","st":"CO"}
+{"k":"co_cpw_94146","b":[-107.62502,38.45171,-107.5381,38.5107],"fish":{"Kokanee":[{"k":"park","p":1,"s":"nps.gov"}],"Trout":[{"ag":1,"k":"report","p":1,"s":"cpw.state.co.us Fishing Atlas","stk":1,"y":2025},{"k":"report","n":2,"p":1,"s":"gbif.org (CC0 / CC BY records)","y":2009,"y0":2009}]},"n":"Crystal Reservoir","st":"CO"}

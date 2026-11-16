@@ -1,1 +1,1 @@
-{"k":"co_cpw_79980","b":[-105.05634,37.9823,-105.04909,37.98679],"fish":{"Trout":[{"ag":1,"k":"report","p":1,"s":"cpw.state.co.us Fishing Atlas","stk":1,"y":2025}]},"n":"Lake Isabel","st":"CO"}
+{"k":"co_cpw_79980","b":[-105.05634,37.9823,-105.04909,37.98679],"fish":{"Trout":[{"ag":1,"k":"report","p":1,"s":"cpw.state.co.us Fishing Atlas","stk":1,"y":2025},{"k":"report","n":2,"p":1,"s":"gbif.org (CC0 / CC BY records)","y":2022,"y0":2014}],"Yellow Perch":[{"k":"report","n":1,"p":1,"s":"gbif.org (CC0 / CC BY records)","y":2017,"y0":2017}]},"n":"Lake Isabel","st":"CO"}
