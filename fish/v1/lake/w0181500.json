@@ -1,1 +1,1 @@
-{"k":"w0181500","b":[-89.09177,44.97141,-89.08564,44.97609],"fish":{"Largemouth Bass":[{"ag":1,"k":"park","p":1,"s":"apps.dnr.wi.gov"}]},"n":"Baker Lake","st":"WI","lines":["Panfish"]}
+{"k":"w0181500","b":[-89.09177,44.97141,-89.08564,44.97609],"fish":{"Largemouth Bass":[{"ag":1,"k":"park","p":1,"s":"apps.dnr.wi.gov"},{"ag":1,"k":"park","n":2,"p":1,"s":"USGS MidFish (state survey records)","y":1970,"y0":1961}]},"n":"Baker Lake","st":"WI","lines":["Panfish"],"sv":[{"m":"survey catch records","s":"USGS MidFish (state survey records)","y":1970,"y0":1961}]}
