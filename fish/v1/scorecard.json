@@ -3,14 +3,14 @@
   "held": 14964,
   "ledgers": 7163,
   "off": 9386,
-  "on": 17659,
-  "open": 36751,
+  "on": 17667,
+  "open": 36743,
   "pairs": 78760,
   "surveyed": 2734
  },
  "bar": 0.5,
- "built": "2026-11-16 14:59 UTC",
- "lakes": 11159,
+ "built": "2026-11-16 16:43 UTC",
+ "lakes": 11182,
  "problems": [],
  "states": {
   "??": {
@@ -108,8 +108,8 @@
    "lakes": 5,
    "ledgers": 5,
    "off": 0,
-   "on": 33,
-   "open": 22,
+   "on": 41,
+   "open": 14,
    "surveyed": 0
   },
   "IA": {
@@ -393,7 +393,7 @@
   },
   "WI": {
    "held": 964,
-   "lakes": 620,
+   "lakes": 643,
    "ledgers": 597,
    "off": 1053,
    "on": 3051,
