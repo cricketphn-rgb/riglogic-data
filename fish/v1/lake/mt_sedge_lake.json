@@ -1,1 +1,1 @@
-{"k":"mt_sedge_lake","b":[-109.81975,45.05311,-109.81613,45.05524],"fish":{"Trout":[{"ag":1,"k":"park","n":6,"p":1,"s":"fwp.mt.gov","sy":2021,"y":2021,"y0":1992}]},"n":"Sedge Lake","st":"MT","sv":[{"m":"survey","n":6,"s":"fwp.mt.gov","y":2021,"y0":1992}],"cover":"page"}
+{"k":"mt_sedge_lake","b":[-109.81975,45.05311,-109.81613,45.05524],"fish":{"Trout":[{"ag":1,"c":1.0,"k":"park","n":6,"p":1,"s":"fwp.mt.gov","sy":2021,"y":2021,"y0":1992}]},"n":"Sedge Lake","st":"MT","sv":[{"m":"survey","n":6,"s":"fwp.mt.gov","y":2021,"y0":1992,"y2":2015}],"cover":"page"}

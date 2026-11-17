@@ -1,1 +1,1 @@
-{"k":"mt_triskele_lake","b":[-109.60803,45.03954,-109.60528,45.04138],"fish":{"Trout":[{"ag":1,"k":"park","n":2,"p":1,"s":"fwp.mt.gov","sy":2016,"y":2016,"y0":2005}]},"n":"Triskele Lake","st":"MT","sv":[{"m":"survey","n":2,"s":"fwp.mt.gov","y":2016,"y0":2005}],"cover":"page"}
+{"k":"mt_triskele_lake","b":[-109.60803,45.03954,-109.60528,45.04138],"fish":{"Trout":[{"ag":1,"c":1.0,"k":"park","n":2,"p":1,"s":"fwp.mt.gov","sy":2016,"y":2016,"y0":2005}]},"n":"Triskele Lake","st":"MT","sv":[{"m":"survey","n":2,"s":"fwp.mt.gov","y":2016,"y0":2005,"y2":2005}],"cover":"page"}

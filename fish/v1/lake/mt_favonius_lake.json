@@ -1,1 +1,1 @@
-{"k":"mt_favonius_lake","b":[-110.10142,45.21735,-110.09378,45.21935],"fish":{"Trout":[{"ag":1,"k":"park","n":6,"p":1,"s":"fwp.mt.gov","sy":2026,"y":2026,"y0":1969}]},"n":"Favonius Lake","st":"MT","sv":[{"m":"survey","n":6,"s":"fwp.mt.gov","y":2026,"y0":1969}],"cover":"page"}
+{"k":"mt_favonius_lake","b":[-110.10142,45.21735,-110.09378,45.21935],"fish":{"Trout":[{"ag":1,"c":1.0,"k":"park","n":6,"p":1,"s":"fwp.mt.gov","sy":2026,"y":2026,"y0":1969}]},"n":"Favonius Lake","st":"MT","sv":[{"m":"survey","n":6,"s":"fwp.mt.gov","y":2026,"y0":1969,"y2":2019}],"cover":"page"}

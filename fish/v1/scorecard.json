@@ -1,21 +1,21 @@
 {
  "all": {
-  "held": 53961,
+  "held": 53955,
   "ledgers": 14074,
   "off": 17786,
-  "on": 49057,
-  "open": 33955,
+  "on": 49070,
+  "open": 33948,
   "pairs": 154759,
   "surveyed": 10299
  },
  "bar": 0.5,
- "built": "2026-11-17 15:16 UTC",
- "lakes": 11224,
+ "built": "2026-11-17 19:26 UTC",
+ "lakes": 11232,
  "problems": [],
  "states": {
   "??": {
    "held": 28567,
-   "lakes": 310,
+   "lakes": 311,
    "ledgers": 7444,
    "off": 10111,
    "on": 29700,
@@ -42,7 +42,7 @@
   },
   "AR": {
    "held": 10,
-   "lakes": 51,
+   "lakes": 53,
    "ledgers": 8,
    "off": 36,
    "on": 11,
@@ -60,7 +60,7 @@
   },
   "CA": {
    "held": 7,
-   "lakes": 9,
+   "lakes": 10,
    "ledgers": 8,
    "off": 38,
    "on": 21,
@@ -69,7 +69,7 @@
   },
   "CO": {
    "held": 16,
-   "lakes": 6,
+   "lakes": 7,
    "ledgers": 4,
    "off": 5,
    "on": 12,
@@ -141,7 +141,7 @@
   },
   "IN": {
    "held": 266,
-   "lakes": 116,
+   "lakes": 118,
    "ledgers": 100,
    "off": 208,
    "on": 369,
@@ -230,20 +230,20 @@
    "surveyed": 8
   },
   "MT": {
-   "held": 3965,
+   "held": 3972,
    "lakes": 736,
    "ledgers": 537,
    "off": 881,
    "on": 702,
-   "open": 359,
+   "open": 352,
    "surveyed": 524
   },
   "ND": {
-   "held": 1051,
+   "held": 1038,
    "lakes": 271,
    "ledgers": 270,
    "off": 827,
-   "on": 969,
+   "on": 982,
    "open": 123,
    "surveyed": 269
   },
@@ -294,7 +294,7 @@
   },
   "OK": {
    "held": 106,
-   "lakes": 90,
+   "lakes": 91,
    "ledgers": 75,
    "off": 382,
    "on": 185,
@@ -469,28 +469,28 @@
    "wrong": 0
   },
   "on_netted_in_one_year_cover_page_": {
-   "lakes": 145,
-   "off": 462,
-   "pct": 1.0822510822510822,
+   "lakes": 144,
+   "off": 458,
+   "pct": 1.091703056768559,
    "takesOff": false,
    "verdict": "DOES NOT PASS",
    "wrong": 5
   },
   "on_not_netted_list_of_13_fish_cover_page_": {
-   "lakes": 157,
-   "off": 497,
-   "pct": 3.2193158953722336,
+   "lakes": 159,
+   "off": 504,
+   "pct": 3.1746031746031744,
    "takesOff": false,
    "verdict": "DOES NOT PASS",
    "wrong": 16
   },
   "on_not_netted_shorter_list_no_cover_": {
-   "lakes": 659,
-   "off": 2851,
-   "pct": 3.8933707471062786,
+   "lakes": 658,
+   "off": 2845,
+   "pct": 3.936731107205624,
    "takesOff": false,
    "verdict": "DOES NOT PASS",
-   "wrong": 111
+   "wrong": 112
   },
   "wi_page": {
    "lakes": 295,
