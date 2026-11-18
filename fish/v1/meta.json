@@ -1,8 +1,8 @@
 {
  "v": 1,
- "built": "2026-11-18 17:59 UTC",
- "lakes": 23468,
- "ledgers": 19021,
+ "built": "2026-11-18 18:21 UTC",
+ "lakes": 23475,
+ "ledgers": 19028,
  "watersheds": 2430,
  "livingRecords": 211403,
  "covered": [
@@ -29,7 +29,7 @@
   "White Bass",
   "Yellow Perch"
  ],
- "harvested": 18471,
+ "harvested": 18478,
  "sources": [
   "agency lake lists (research/species_rules_draft_*.json)",
   "Wisconsin DNR lake pages, read 2026-11-13",
