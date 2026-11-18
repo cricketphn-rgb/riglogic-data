@@ -1,26 +1,26 @@
 {
  "all": {
-  "held": 80448,
-  "ledgers": 18966,
-  "off": 31053,
-  "on": 52282,
-  "open": 44788,
-  "pairs": 208571,
-  "surveyed": 14489
+  "held": 80549,
+  "ledgers": 19003,
+  "off": 31184,
+  "on": 52309,
+  "open": 44936,
+  "pairs": 208978,
+  "surveyed": 14520
  },
  "bar": 0.5,
- "built": "2026-11-18 17:14 UTC",
- "lakes": 11320,
+ "built": "2026-11-18 17:38 UTC",
+ "lakes": 11324,
  "problems": [],
  "states": {
   "??": {
-   "held": 53333,
+   "held": 53426,
    "lakes": 311,
-   "ledgers": 11952,
-   "off": 22702,
-   "on": 32717,
-   "open": 22720,
-   "surveyed": 10389
+   "ledgers": 11987,
+   "off": 22833,
+   "on": 32744,
+   "open": 22854,
+   "surveyed": 10418
   },
   "AK": {
    "held": 235,
@@ -60,7 +60,7 @@
   },
   "CA": {
    "held": 7,
-   "lakes": 10,
+   "lakes": 11,
    "ledgers": 8,
    "off": 38,
    "on": 21,
@@ -185,13 +185,13 @@
    "surveyed": 87
   },
   "ME": {
-   "held": 1218,
-   "lakes": 960,
-   "ledgers": 226,
+   "held": 1226,
+   "lakes": 963,
+   "ledgers": 228,
    "off": 356,
    "on": 2,
-   "open": 910,
-   "surveyed": 214
+   "open": 924,
+   "surveyed": 216
   },
   "MI": {
    "held": 3149,
