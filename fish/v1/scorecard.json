@@ -1,26 +1,26 @@
 {
  "all": {
-  "held": 79374,
-  "ledgers": 18791,
-  "off": 30704,
+  "held": 80073,
+  "ledgers": 18899,
+  "off": 30886,
   "on": 52282,
-  "open": 44286,
-  "pairs": 206646,
-  "surveyed": 14273
+  "open": 44593,
+  "pairs": 207834,
+  "surveyed": 14421
  },
  "bar": 0.5,
- "built": "2026-11-18 14:56 UTC",
+ "built": "2026-11-18 15:51 UTC",
  "lakes": 11320,
  "problems": [],
  "states": {
   "??": {
-   "held": 52411,
+   "held": 52962,
    "lakes": 311,
-   "ledgers": 11824,
-   "off": 22423,
+   "ledgers": 11886,
+   "off": 22538,
    "on": 32717,
-   "open": 22513,
-   "surveyed": 10260
+   "open": 22529,
+   "surveyed": 10323
   },
   "AK": {
    "held": 235,
@@ -68,21 +68,21 @@
    "surveyed": 0
   },
   "CO": {
-   "held": 16,
+   "held": 14,
    "lakes": 7,
    "ledgers": 4,
    "off": 5,
    "on": 12,
-   "open": 11,
+   "open": 13,
    "surveyed": 2
   },
   "CT": {
-   "held": 498,
+   "held": 500,
    "lakes": 138,
    "ledgers": 106,
    "off": 126,
    "on": 413,
-   "open": 129,
+   "open": 127,
    "surveyed": 2
   },
   "FL": {
@@ -95,12 +95,12 @@
    "surveyed": 3
   },
   "GA": {
-   "held": 5,
+   "held": 10,
    "lakes": 4,
    "ledgers": 4,
    "off": 9,
    "on": 18,
-   "open": 12,
+   "open": 7,
    "surveyed": 2
   },
   "GL": {
@@ -131,21 +131,21 @@
    "surveyed": 3
   },
   "IL": {
-   "held": 163,
+   "held": 162,
    "lakes": 317,
    "ledgers": 140,
    "off": 329,
    "on": 550,
-   "open": 498,
+   "open": 499,
    "surveyed": 79
   },
   "IN": {
-   "held": 266,
+   "held": 265,
    "lakes": 118,
    "ledgers": 100,
    "off": 208,
    "on": 369,
-   "open": 202,
+   "open": 203,
    "surveyed": 86
   },
   "KS": {
@@ -176,30 +176,30 @@
    "surveyed": 33
   },
   "MA": {
-   "held": 520,
+   "held": 699,
    "lakes": 257,
-   "ledgers": 118,
-   "off": 182,
+   "ledgers": 164,
+   "off": 249,
    "on": 504,
-   "open": 92,
-   "surveyed": 2
+   "open": 352,
+   "surveyed": 87
   },
   "ME": {
-   "held": 1183,
+   "held": 1218,
    "lakes": 960,
    "ledgers": 226,
    "off": 356,
    "on": 2,
-   "open": 945,
+   "open": 910,
    "surveyed": 214
   },
   "MI": {
-   "held": 3150,
+   "held": 3149,
    "lakes": 1590,
    "ledgers": 1122,
    "off": 374,
    "on": 3043,
-   "open": 5775,
+   "open": 5776,
    "surveyed": 734
   },
   "MN": {
@@ -230,12 +230,12 @@
    "surveyed": 8
   },
   "MT": {
-   "held": 3980,
+   "held": 3979,
    "lakes": 737,
    "ledgers": 538,
    "off": 881,
    "on": 704,
-   "open": 353,
+   "open": 354,
    "surveyed": 525
   },
   "ND": {
@@ -248,21 +248,21 @@
    "surveyed": 269
   },
   "NE": {
-   "held": 131,
+   "held": 133,
    "lakes": 117,
    "ledgers": 67,
    "off": 200,
    "on": 74,
-   "open": 332,
+   "open": 330,
    "surveyed": 7
   },
   "NH": {
-   "held": 526,
+   "held": 536,
    "lakes": 624,
    "ledgers": 124,
    "off": 111,
    "on": 19,
-   "open": 708,
+   "open": 698,
    "surveyed": 8
   },
   "NV": {
@@ -275,39 +275,39 @@
    "surveyed": 0
   },
   "NY": {
-   "held": 69,
+   "held": 64,
    "lakes": 26,
    "ledgers": 23,
    "off": 12,
    "on": 66,
-   "open": 106,
+   "open": 111,
    "surveyed": 6
   },
   "OH": {
-   "held": 112,
+   "held": 106,
    "lakes": 131,
    "ledgers": 85,
    "off": 218,
    "on": 51,
-   "open": 554,
+   "open": 560,
    "surveyed": 2
   },
   "OK": {
-   "held": 109,
+   "held": 110,
    "lakes": 92,
    "ledgers": 76,
    "off": 382,
    "on": 190,
-   "open": 155,
+   "open": 154,
    "surveyed": 17
   },
   "ON": {
-   "held": 11550,
+   "held": 11554,
    "lakes": 3123,
    "ledgers": 2504,
    "off": 480,
    "on": 6588,
-   "open": 8926,
+   "open": 8922,
    "surveyed": 1096
   },
   "OR": {
@@ -320,12 +320,12 @@
    "surveyed": 2
   },
   "PA": {
-   "held": 81,
+   "held": 83,
    "lakes": 49,
    "ledgers": 34,
    "off": 65,
    "on": 64,
-   "open": 164,
+   "open": 162,
    "surveyed": 15
   },
   "SC": {
@@ -383,30 +383,30 @@
    "surveyed": 17
   },
   "WA": {
-   "held": 871,
+   "held": 809,
    "lakes": 223,
    "ledgers": 204,
    "off": 496,
    "on": 42,
-   "open": 835,
+   "open": 897,
    "surveyed": 168
   },
   "WI": {
-   "held": 1486,
+   "held": 1483,
    "lakes": 753,
    "ledgers": 656,
    "off": 962,
    "on": 3958,
-   "open": 810,
+   "open": 813,
    "surveyed": 522
   },
   "WV": {
-   "held": 112,
+   "held": 102,
    "lakes": 66,
    "ledgers": 52,
    "off": 160,
    "on": 150,
-   "open": 150,
+   "open": 160,
    "surveyed": 5
   },
   "WY": {
