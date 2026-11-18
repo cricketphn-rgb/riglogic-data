@@ -62,11 +62,1163 @@
   "86_-170",
   48
  ],
- "named": 129649,
+ "named": 129879,
  "points": 28026236,
  "q": 100000,
  "source": "USGS National Hydrography Dataset, state GeoPackages (prd-tnm.s3.amazonaws.com StagedProducts/Hydrography/NHD/State/GPKG)",
  "squares": 5118,
+ "state_names": [
+  [
+   "0173fba1-2722-459f-98a2-1cd992290f1c",
+   "Cold Springs Reservoir",
+   "Nevada Department of Wildlife (fishing waters list)"
+  ],
+  [
+   "106402040",
+   "Tolman Pond",
+   "Maine IF&W fish stocking reports"
+  ],
+  [
+   "106404938",
+   "Center Pond",
+   "Maine IF&W fish stocking reports"
+  ],
+  [
+   "111577201",
+   "Canyon Creek Lake, Upper (Trinity Alps)",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "113182025",
+   "Streckfus Draw Reservoir",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "120019617",
+   "Lake Winona",
+   "US EPA National Lake Fish Tissue Study (fish samples)"
+  ],
+  [
+   "120024167",
+   "Bankhead Reservoir",
+   "US EPA National Lake Fish Tissue Study (fish samples)"
+  ],
+  [
+   "120028240",
+   "Titcomb Lake #5",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "120028258",
+   "Long Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "120028294",
+   "Rainey Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "120028311",
+   "Glover Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "120030708",
+   "Spud Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "120842758",
+   "ASCS Lake Riser 638",
+   "US EPA National Lake Fish Tissue Study (fish samples)"
+  ],
+  [
+   "121581798",
+   "Ben Lilly Pond",
+   "US EPA National Lake Fish Tissue Study (fish samples)"
+  ],
+  [
+   "122415930",
+   "Devil's Punchbowl Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "123319728",
+   "Lake of the Woods",
+   "US EPA National Lake Fish Tissue Study (fish samples)"
+  ],
+  [
+   "125293621",
+   "Donegal Lake",
+   "Pennsylvania Fish and Boat Commission stocked trout waters (map layer)"
+  ],
+  [
+   "129447868",
+   "Keyser Lake",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "129670506",
+   "Ambuc Park Lake",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "130163059",
+   "Petersons Lake",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "135654449",
+   "Lone Star Lake",
+   "US EPA National Lake Fish Tissue Study (fish samples)"
+  ],
+  [
+   "136893163",
+   "Toltec Reservoir",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "140483010",
+   "Barth Pit",
+   "Nevada Department of Wildlife (fishing waters list)"
+  ],
+  [
+   "143279091",
+   "Table Mountain Reservoir 5",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "143279095",
+   "Table Mountain Reservoir 4",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "143279097",
+   "Laird Reservoir",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "143279099",
+   "Bump Sullivan Reservoir",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "145049569",
+   "Madawaska Lake",
+   "Maine IF&W fish stocking reports"
+  ],
+  [
+   "145081334",
+   "Rock Crusher Pond",
+   "Maine IF&W fish stocking reports"
+  ],
+  [
+   "145096864",
+   "Reid/Round Lake",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "146618755",
+   "Pits Pond",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "147610382",
+   "Cold Creek Reservoir",
+   "Nevada Department of Wildlife (fishing waters list)"
+  ],
+  [
+   "149627494",
+   "Salt Lake",
+   "US EPA National Lake Fish Tissue Study (fish samples)"
+  ],
+  [
+   "149742958",
+   "Warm Springs Pond",
+   "Nevada Department of Wildlife (fishing waters list)"
+  ],
+  [
+   "149773149",
+   "Fishin' Lake",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "149808171",
+   "Mitchell Pond",
+   "Maine IF&W fish stocking reports"
+  ],
+  [
+   "150612372",
+   "Ten-Forty Pond",
+   "Maine IF&W fish stocking reports"
+  ],
+  [
+   "151873832",
+   "Norvell Lake",
+   "US EPA National Lake Fish Tissue Study (fish samples)"
+  ],
+  [
+   "153793969",
+   "Bryan Stock Trail Pond (Lake Makenzie)",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "153794205",
+   "Big Muddy Pond",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "154881107",
+   "Rim Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "154881462",
+   "Kindt Reservoir",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "154881631",
+   "Rasmussen Reservoir",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "154881918",
+   "Good Reservoir 2",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "154883414",
+   "Silver Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "154883636",
+   "Silver Lake, Hayden",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "155472918",
+   "MauMee Lake",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "155803594",
+   "Beaver Pond",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "157360221",
+   "Camelot Lake",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "157638437",
+   "Lake Hudson",
+   "US EPA National Lake Fish Tissue Study (fish samples)"
+  ],
+  [
+   "167100317",
+   "Upper Kellum Pond",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "19e55e0d-45b9-4165-bef6-0e2b89aa9d40",
+   "Walker Jenkins Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "25486282",
+   "Levittown Lake",
+   "Pennsylvania Fish and Boat Commission stocked trout waters (map layer)"
+  ],
+  [
+   "28052517",
+   "Flat Creek Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29465630",
+   "Lower Sauerkraut Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29465736",
+   "Titcomb Lake #1",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29465800",
+   "Bridger Lake #9",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29465836",
+   "Bridger Lake #8",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29465900",
+   "Bridger Lake #6",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29466206",
+   "Upper Triangle Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29468938",
+   "J Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29469092",
+   "Dollar Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29469096",
+   "Baldy Lake (Sturrey), L",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29469164",
+   "Trophy Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29469176",
+   "Southwest Trophy Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29470870",
+   "Upper Neil Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29472406",
+   "Pole Creek Lake #16 Dumbell",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29472434",
+   "Upper Cook Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29472452",
+   "Don Lake (Nelson #3)",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29472472",
+   "Peter Lake (Nelson #2)",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29472564",
+   "Bald Mountain Basin Lake #9",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29472698",
+   "Bald Mountain Basin Lake #3",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29473350",
+   "Elbow Creek Lake #7 (Slim Lk)",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29474174",
+   "Europe Creek Lake #7",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29474180",
+   "Europe Creek Lake #6",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29474238",
+   "Europe Creek Lake #4",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29474318",
+   "Halls Creek Lake #10",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29474442",
+   "Halls Creek Lake #12",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29474594",
+   "Lower Pipestone Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29474604",
+   "Halls Creek Lake #6",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29474760",
+   "Boulder Creek Lake #3, Mf",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29474770",
+   "Pipestone Lake #2",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29474776",
+   "Halls Creek Lake #4",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29474998",
+   "Lower Firehole Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29476724",
+   "Bell Lake (Baldy #8)",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29476872",
+   "Leavell Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29476890",
+   "Rodney Lake (Baldy Creek Lake #6)",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29476934",
+   "Jacquline Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29476944",
+   "Karen Lake (Baldy #4)",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29477070",
+   "Fall Creek Lake #7",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29477080",
+   "Fall Creek Lake #9",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29481330",
+   "Bonneville Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29481348",
+   "East Fork Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29481418",
+   "East Fork Lake #5",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29481514",
+   "Upper Silver Lakes",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "29486236",
+   "Lower Silver Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29489388",
+   "Hidden Lake #1 (Lyns)",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "29489552",
+   "Cutthroat Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "30641927",
+   "Lower Green River Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "30652503",
+   "Rock Crib Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "30675219",
+   "Lower Waterdog Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "31689993",
+   "Hidden Lake (Hell & Gone)",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "31694991",
+   "Lewis Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "34332263",
+   "Clear Creek Lake 1",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "34332919",
+   "August Storm",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "34333001",
+   "Cayuse Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "37100197",
+   "Wilkins Pond",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "38353913",
+   "Black Joe Creek Lake #1",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "43672165",
+   "James P. Bailey Lake",
+   "West Virginia DNR (fishing lakes list)"
+  ],
+  [
+   "43673109",
+   "Mountain Valley Lake",
+   "West Virginia DNR (fishing lakes list)"
+  ],
+  [
+   "45655541",
+   "New Creek Dam 14",
+   "West Virginia DNR (fishing lakes list)"
+  ],
+  [
+   "46558559",
+   "Lake Needwood",
+   "Maryland DNR trout stocking points (map layer)"
+  ],
+  [
+   "47726283",
+   "Northville Pond",
+   "US EPA National Lake Fish Tissue Study (fish samples)"
+  ],
+  [
+   "51497579",
+   "Shelf Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "51506551",
+   "Bears Ears Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "51506661",
+   "Hidden Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "51506705",
+   "Mid Deep Creek Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "51506709",
+   "Lower Deep Creek Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "51506719",
+   "Upper Deep Creek Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "51506733",
+   "Park Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "51506823",
+   "Upper Tayo Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "51506857",
+   "Hanks Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "51506959",
+   "Cutthroat Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "51506965",
+   "Toadstool Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "51506987",
+   "Footprint Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "51507001",
+   "Blackrock Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "51507005",
+   "Fawn Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "51507041",
+   "Upper Saddlebags Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "52853167",
+   "Melcher Pond",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "52944415",
+   "Dam Number 6 Pond",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "54017148",
+   "Myrtle Grove Lake",
+   "Maryland DNR trout stocking points (map layer)"
+  ],
+  [
+   "54752472",
+   "Upper Valentine Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "55501053",
+   "Southern South Lake",
+   "US EPA National Lake Fish Tissue Study (fish samples)"
+  ],
+  [
+   "56779015",
+   "Horseshoe Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "56779047",
+   "Twin Lake 3",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "56779069",
+   "Jeff Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "56779155",
+   "Flake Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "56779157",
+   "Three Bay Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "56779203",
+   "Gander Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "56779217",
+   "Lower Sheepherder Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "56799683",
+   "Elk Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "56800157",
+   "Lake Creek Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "59307067",
+   "Snowbank Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "59570961",
+   "North Fork Stanislaus River Diversion Dam.",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "60576632",
+   "Artesia Lake",
+   "Nevada Department of Wildlife (fishing waters list)"
+  ],
+  [
+   "65196833",
+   "Paradise Park Pond",
+   "Nevada Department of Wildlife (fishing waters list)"
+  ],
+  [
+   "65274576",
+   "Twin Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "65274580",
+   "Blueberry Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "65298644",
+   "Kinnear Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "65302306",
+   "Four Creek Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "65302312",
+   "Pedestal Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "65302314",
+   "Bird Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "65302316",
+   "Pitcher Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "65302336",
+   "Marked Tree Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "65302352",
+   "Sassafras Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "65302378",
+   "Knifeblade Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "65302392",
+   "Jean Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "65303622",
+   "Golden Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "65303624",
+   "Brooks Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "65303640",
+   "Lower Glacier Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "65303660",
+   "Norman Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "65310316",
+   "Rainbow Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "66163895",
+   "Millwood Lake",
+   "US EPA National Lake Fish Tissue Study (fish samples)"
+  ],
+  [
+   "66755765",
+   "Middle Buck Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "66755819",
+   "Lower Buck Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "67268622",
+   "Upper Hoover Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "67303805",
+   "Mason Valley WMA North Pond",
+   "Nevada Department of Wildlife (fishing waters list)"
+  ],
+  [
+   "69932219",
+   "Broadford Lake",
+   "Maryland DNR trout stocking points (map layer)"
+  ],
+  [
+   "70649112",
+   "Lake Elsie",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "70649116",
+   "Lower Pouch Lake",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "70674514",
+   "NE Solitude Lake 6",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "75377551",
+   "Buffalo Wetlands Pond",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "75391437",
+   "Seven Bros Lake 2",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "75391455",
+   "Seven Bros Lake 4",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "75391461",
+   "Seven Bros Lake 5",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "75394291",
+   "Powell Lake 1",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "75402479",
+   "South Piney Creek Lake 1",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "77251371",
+   "Twin Island Lakes 1",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77251401",
+   "Upper Nydiver Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77251763",
+   "Upper Beck Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77252111",
+   "Lower Jackass Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77252199",
+   "Ram Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77252419",
+   "Upper Hortense Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77252689",
+   "Upper Hopkins Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77252735",
+   "Pioneer Lake 5",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77252839",
+   "Pioneer Lake 2",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77253599",
+   "Royce Lake 5",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77253873",
+   "Royce Lake 2",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77254217",
+   "Sallie Keyes Lakes",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77255549",
+   "Wahoo Lake 1",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77316132",
+   "Twin Lakes (Mammoth)",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77316138",
+   "Upper Twin Lakes",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77316452",
+   "Hilton Lake 2",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77316944",
+   "Granite Park Lake 1",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77317560",
+   "Tyee Lake 5",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77317760",
+   "Treasure Lake 1 (Bishop Ck)",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "77317770",
+   "Baker Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "79972521",
+   "Taboose Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "79973381",
+   "Golden Trout Lake 2",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "79973557",
+   "George Creek Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "80164015",
+   "Boley Lake",
+   "West Virginia DNR (fishing lakes list)"
+  ],
+  [
+   "80457544",
+   "Alger Lake 3",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "80457566",
+   "Alger Lake 1",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "80457570",
+   "Lost Lake 3",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "80457976",
+   "Upper Marie Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "80458150",
+   "Upper Davis Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "82553834",
+   "Ashby Lake",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "82676242",
+   "Eberhard Reservoir",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "83092803",
+   "Round Valley Reservoir",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "83092945",
+   "Crystal Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "83093017",
+   "Silver Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "83093041",
+   "Gold Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "86282539",
+   "Upper Bullhead Lake",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "90885593",
+   "Kornegay Lake",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "{215295A5-F84A-450E-9E85-E65F88C02682}",
+   "Lake Witten",
+   "Virginia DWR stocked trout lakes (map layer)"
+  ],
+  [
+   "{23740787-938A-49BB-8A9F-F9E245C8D2D2}",
+   "Frozencamp Left Fork",
+   "West Virginia DNR (fishing lakes list)"
+  ],
+  [
+   "{2AA3A346-CE8E-4468-A60C-6278266A0B86}",
+   "Dead Lake",
+   "California Department of Fish and Wildlife (high mountain lakes surveys)"
+  ],
+  [
+   "{45FC7FCA-11AA-40B6-AA56-96D3F51400F0}",
+   "Bear Creek Reservoir",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "{4DB7D4B7-AF6F-4ECC-8DD4-B1D49FFB0989}",
+   "McClintic Ponds",
+   "West Virginia DNR (fishing lakes list)"
+  ],
+  [
+   "{551DD6D7-EA65-4830-811B-9B1AED7EDFAC}",
+   "Mic-Mac Pond",
+   "Maine IF&W fish stocking reports"
+  ],
+  [
+   "{5A7B0208-76FC-4A0A-A645-92976A9BF0BE}",
+   "Tie Hack Reservoir",
+   "Wyoming Game and Fish (standing waters list)"
+  ],
+  [
+   "{5C595DF0-AF0D-4CC6-943C-7100024646BC}",
+   "Wolf Run Lake",
+   "West Virginia DNR (fishing lakes list)"
+  ],
+  [
+   "{605A5DB3-01F6-4EC4-9EC4-640CD814795F}",
+   "Lake Bonita",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "{77869C56-7FCE-4FBC-8F87-311C753ECD86}",
+   "Dunkard Fork Lake",
+   "West Virginia DNR (fishing lakes list)"
+  ],
+  [
+   "{85CCCDA0-C270-4E2C-ACEF-F337A8101EDF}",
+   "Timbered Lake",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "{9EBF6479-1008-4055-A2E1-73E0EF782A1B}",
+   "Fern Ridge Lake",
+   "US EPA National Lakes Assessment 2022 (fish samples)"
+  ],
+  [
+   "{A3C1A102-7573-46AC-99C1-BFFA121273A6}",
+   "Cloverleaf Lake",
+   "US EPA National Lake Fish Tissue Study (fish samples)"
+  ],
+  [
+   "{BAFA142F-6227-4A5D-9EF1-841E254D9389}",
+   "Sparks Marina",
+   "Nevada Department of Wildlife (fishing waters list)"
+  ],
+  [
+   "{D71FE9B9-2A97-4873-9527-A40C32E7B06A}",
+   "Francis E Walter Reservoir",
+   "Pennsylvania Fish and Boat Commission stocked trout waters (map layer)"
+  ],
+  [
+   "{FEDE20A5-0E16-4D39-9515-D896CED31A35}",
+   "Conaway Run Lake",
+   "West Virginia DNR (fishing lakes list)"
+  ]
+ ],
  "states": {
   "Alabama": 7405,
   "Alaska": 133810,
