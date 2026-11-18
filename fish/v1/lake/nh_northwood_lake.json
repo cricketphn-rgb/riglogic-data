@@ -1,1 +1,1 @@
-{"k":"nh_northwood_lake","b":[-71.29074,43.20122,-71.2396,43.22469],"fish":{"Smallmouth Bass":[{"ag":1,"k":"park","p":1,"s":"wildlife.nh.gov"}]},"n":"Northwood Lake","st":"NH"}
+{"k":"nh_northwood_lake","b":[-71.29074,43.20122,-71.2396,43.22469],"fish":{"Smallmouth Bass":[{"ag":1,"k":"park","p":1,"s":"wildlife.nh.gov"},{"k":"park","n":10,"p":1,"s":"Water Quality Portal (EPA WQX / USGS): fish tissue samples","y":2012,"y0":2012}]},"n":"Northwood Lake","st":"NH","sv":[{"m":"fish samples","s":"Water Quality Portal (EPA WQX / USGS): fish tissue samples","y":2012}]}

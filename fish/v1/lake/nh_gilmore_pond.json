@@ -1,1 +1,1 @@
-{"k":"nh_gilmore_pond","b":[-72.06372,42.80528,-72.04958,42.81309],"fish":{"Trout":[{"ag":1,"k":"park","p":1,"s":"wildlife.nh.gov"}]},"n":"Gilmore Pond","st":"NH"}
+{"k":"nh_gilmore_pond","b":[-72.06372,42.80528,-72.04958,42.81309],"fish":{"Bluegill":[{"k":"park","n":2,"p":1,"s":"Water Quality Portal (EPA WQX / USGS): fish tissue samples","y":2007,"y0":2007}],"Trout":[{"ag":1,"k":"park","p":1,"s":"wildlife.nh.gov"}]},"n":"Gilmore Pond","st":"NH","sv":[{"m":"fish samples","s":"Water Quality Portal (EPA WQX / USGS): fish tissue samples","y":2007}]}

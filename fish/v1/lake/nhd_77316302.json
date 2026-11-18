@@ -1,1 +1,1 @@
-{"k":"nhd_77316302","b":[-118.77249,37.57302,-118.70683,37.66266],"fish":{"Trout":[{"ag":1,"k":"park","n":1,"p":1,"s":"oehha.ca.gov","y":2026,"y0":2026}]},"n":"Lake Crowley","st":"CA"}
+{"k":"nhd_77316302","b":[-118.77249,37.57302,-118.70683,37.66266],"fish":{"Trout":[{"ag":1,"k":"park","n":1,"p":1,"s":"oehha.ca.gov","y":2026,"y0":2026},{"k":"park","n":8,"p":1,"s":"Water Quality Portal (EPA WQX / USGS): fish tissue samples","y":2012,"y0":2007}]},"n":"Lake Crowley","st":"CA","sv":[{"m":"fish samples","s":"Water Quality Portal (EPA WQX / USGS): fish tissue samples","y":2012}]}
