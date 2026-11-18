@@ -1,14 +1,14 @@
 {
- "big": 10425,
- "built": "2026-11-18 00:18 UTC",
- "bytes": 57113940,
+ "big": 10455,
+ "built": "2026-11-18 02:49 UTC",
+ "bytes": 82602767,
  "file_dates": {
   "Alabama": "2023-12-27",
   "Alaska": "2023-12-27",
   "Arizona": "2023-12-27",
   "Arkansas": "2025-09-16",
   "California": "2023-12-27",
-  "Colorado": "2026-11-17",
+  "Colorado": "2023-12-27",
   "Connecticut": "2023-12-27",
   "Delaware": "2023-12-27",
   "District_of_Columbia": "2023-12-27",
@@ -58,12 +58,12 @@
  "half": 2,
  "in_two_state_files": 86332,
  "largest_square": [
-  772871,
+  810145,
   "86_-170",
   48
  ],
  "named": 129649,
- "points": 15109998,
+ "points": 28026236,
  "q": 100000,
  "source": "USGS National Hydrography Dataset, state GeoPackages (prd-tnm.s3.amazonaws.com StagedProducts/Hydrography/NHD/State/GPKG)",
  "squares": 5118,
