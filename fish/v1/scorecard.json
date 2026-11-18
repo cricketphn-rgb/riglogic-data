@@ -1,26 +1,26 @@
 {
  "all": {
-  "held": 68856,
-  "ledgers": 16778,
-  "off": 25864,
-  "on": 52125,
-  "open": 37658,
-  "pairs": 184503,
-  "surveyed": 12089
+  "held": 73608,
+  "ledgers": 17546,
+  "off": 28076,
+  "on": 52182,
+  "open": 39085,
+  "pairs": 192951,
+  "surveyed": 12975
  },
  "bar": 0.5,
- "built": "2026-11-18 04:49 UTC",
+ "built": "2026-11-18 05:07 UTC",
  "lakes": 11245,
  "problems": [],
  "states": {
   "??": {
-   "held": 42095,
+   "held": 46724,
    "lakes": 311,
-   "ledgers": 9875,
-   "off": 17694,
-   "on": 32569,
-   "open": 16267,
-   "surveyed": 8335
+   "ledgers": 10607,
+   "off": 19817,
+   "on": 32621,
+   "open": 17515,
+   "surveyed": 9061
   },
   "AK": {
    "held": 235,
@@ -383,13 +383,13 @@
    "surveyed": 2
   },
   "WA": {
-   "held": 751,
+   "held": 872,
    "lakes": 223,
-   "ledgers": 169,
-   "off": 411,
-   "on": 38,
-   "open": 659,
-   "surveyed": 6
+   "ledgers": 204,
+   "off": 496,
+   "on": 42,
+   "open": 834,
+   "surveyed": 166
   },
   "WI": {
    "held": 1486,
@@ -401,12 +401,12 @@
    "surveyed": 522
   },
   "WV": {
-   "held": 110,
+   "held": 112,
    "lakes": 66,
-   "ledgers": 51,
-   "off": 156,
-   "on": 149,
-   "open": 146,
+   "ledgers": 52,
+   "off": 160,
+   "on": 150,
+   "open": 150,
    "surveyed": 4
   },
   "WY": {
