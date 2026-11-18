@@ -1,26 +1,26 @@
 {
  "all": {
-  "held": 85930,
-  "ledgers": 20733,
-  "off": 36140,
-  "on": 56522,
-  "open": 49416,
-  "pairs": 228008,
-  "surveyed": 15547
+  "held": 85956,
+  "ledgers": 20737,
+  "off": 36148,
+  "on": 56531,
+  "open": 49417,
+  "pairs": 228052,
+  "surveyed": 15551
  },
  "bar": 0.5,
- "built": "2026-11-18 23:15 UTC",
+ "built": "2026-11-18 23:37 UTC",
  "lakes": 11337,
  "problems": [],
  "states": {
   "??": {
-   "held": 57946,
+   "held": 57972,
    "lakes": 311,
-   "ledgers": 13520,
-   "off": 27514,
-   "on": 35963,
-   "open": 27297,
-   "surveyed": 11201
+   "ledgers": 13524,
+   "off": 27522,
+   "on": 35972,
+   "open": 27298,
+   "surveyed": 11205
   },
   "AK": {
    "held": 235,
