@@ -1,25 +1,25 @@
 {
  "all": {
-  "held": 80629,
-  "ledgers": 19037,
-  "off": 31295,
-  "on": 52398,
-  "open": 45030,
-  "pairs": 209352,
+  "held": 80856,
+  "ledgers": 19112,
+  "off": 31526,
+  "on": 52882,
+  "open": 44913,
+  "pairs": 210177,
   "surveyed": 14521
  },
  "bar": 0.5,
- "built": "2026-11-18 18:53 UTC",
- "lakes": 11324,
+ "built": "2026-11-18 19:19 UTC",
+ "lakes": 11325,
  "problems": [],
  "states": {
   "??": {
-   "held": 53506,
+   "held": 53721,
    "lakes": 311,
-   "ledgers": 12021,
-   "off": 22944,
-   "on": 32832,
-   "open": 22949,
+   "ledgers": 12094,
+   "off": 23173,
+   "on": 33166,
+   "open": 22974,
    "surveyed": 10419
   },
   "AK": {
@@ -27,8 +27,8 @@
    "lakes": 49,
    "ledgers": 32,
    "off": 77,
-   "on": 32,
-   "open": 8,
+   "on": 34,
+   "open": 6,
    "surveyed": 0
   },
   "AL": {
@@ -45,8 +45,8 @@
    "lakes": 54,
    "ledgers": 8,
    "off": 36,
-   "on": 12,
-   "open": 30,
+   "on": 13,
+   "open": 29,
    "surveyed": 1
   },
   "AZ": {
@@ -59,12 +59,12 @@
    "surveyed": 0
   },
   "CA": {
-   "held": 7,
-   "lakes": 11,
-   "ledgers": 8,
+   "held": 13,
+   "lakes": 12,
+   "ledgers": 9,
    "off": 38,
-   "on": 21,
-   "open": 22,
+   "on": 24,
+   "open": 24,
    "surveyed": 0
   },
   "CO": {
@@ -72,8 +72,8 @@
    "lakes": 7,
    "ledgers": 4,
    "off": 5,
-   "on": 12,
-   "open": 13,
+   "on": 13,
+   "open": 12,
    "surveyed": 2
   },
   "CT": {
@@ -89,9 +89,9 @@
    "held": 51,
    "lakes": 61,
    "ledgers": 55,
-   "off": 334,
-   "on": 83,
-   "open": 137,
+   "off": 336,
+   "on": 102,
+   "open": 116,
    "surveyed": 3
   },
   "GA": {
@@ -126,8 +126,8 @@
    "lakes": 4,
    "ledgers": 4,
    "off": 2,
-   "on": 14,
-   "open": 19,
+   "on": 23,
+   "open": 10,
    "surveyed": 3
   },
   "IL": {
@@ -144,8 +144,8 @@
    "lakes": 118,
    "ledgers": 100,
    "off": 208,
-   "on": 369,
-   "open": 203,
+   "on": 372,
+   "open": 200,
    "surveyed": 86
   },
   "KS": {
@@ -153,8 +153,8 @@
    "lakes": 66,
    "ledgers": 46,
    "off": 204,
-   "on": 161,
-   "open": 81,
+   "on": 175,
+   "open": 67,
    "surveyed": 2
   },
   "KY": {
@@ -176,21 +176,21 @@
    "surveyed": 33
   },
   "MA": {
-   "held": 699,
+   "held": 698,
    "lakes": 257,
    "ledgers": 164,
    "off": 249,
-   "on": 504,
-   "open": 352,
+   "on": 512,
+   "open": 345,
    "surveyed": 87
   },
   "ME": {
-   "held": 1226,
+   "held": 1232,
    "lakes": 963,
-   "ledgers": 228,
+   "ledgers": 229,
    "off": 356,
-   "on": 2,
-   "open": 924,
+   "on": 19,
+   "open": 912,
    "surveyed": 216
   },
   "MI": {
@@ -261,8 +261,8 @@
    "lakes": 624,
    "ledgers": 124,
    "off": 111,
-   "on": 19,
-   "open": 698,
+   "on": 28,
+   "open": 689,
    "surveyed": 8
   },
   "NV": {
@@ -279,17 +279,17 @@
    "lakes": 26,
    "ledgers": 23,
    "off": 12,
-   "on": 66,
-   "open": 111,
+   "on": 72,
+   "open": 105,
    "surveyed": 6
   },
   "OH": {
-   "held": 106,
+   "held": 107,
    "lakes": 131,
    "ledgers": 85,
    "off": 218,
-   "on": 51,
-   "open": 560,
+   "on": 75,
+   "open": 535,
    "surveyed": 2
   },
   "OK": {
@@ -297,8 +297,8 @@
    "lakes": 92,
    "ledgers": 76,
    "off": 382,
-   "on": 190,
-   "open": 154,
+   "on": 200,
+   "open": 144,
    "surveyed": 17
   },
   "ON": {
@@ -315,8 +315,8 @@
    "lakes": 5,
    "ledgers": 5,
    "off": 15,
-   "on": 5,
-   "open": 11,
+   "on": 6,
+   "open": 10,
    "surveyed": 2
   },
   "PA": {
@@ -324,8 +324,8 @@
    "lakes": 49,
    "ledgers": 34,
    "off": 65,
-   "on": 64,
-   "open": 162,
+   "on": 77,
+   "open": 149,
    "surveyed": 15
   },
   "SC": {
@@ -405,8 +405,8 @@
    "lakes": 66,
    "ledgers": 52,
    "off": 160,
-   "on": 150,
-   "open": 160,
+   "on": 159,
+   "open": 151,
    "surveyed": 5
   },
   "WY": {
@@ -414,8 +414,8 @@
    "lakes": 1,
    "ledgers": 1,
    "off": 3,
-   "on": 1,
-   "open": 2,
+   "on": 2,
+   "open": 1,
    "surveyed": 1
   }
  },
