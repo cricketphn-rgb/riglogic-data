@@ -1,25 +1,25 @@
 {
  "all": {
-  "held": 103163,
-  "ledgers": 20706,
-  "off": 19509,
-  "on": 59274,
-  "open": 45820,
-  "pairs": 227766,
-  "surveyed": 15397
+  "held": 138154,
+  "ledgers": 27620,
+  "off": 19513,
+  "on": 75134,
+  "open": 71019,
+  "pairs": 303820,
+  "surveyed": 15400
  },
  "bar": 0.5,
- "built": "2026-11-21 03:56 UTC",
+ "built": "2026-11-21 05:44 UTC",
  "lakes": 11422,
  "problems": [],
  "states": {
   "??": {
-   "held": 71036,
+   "held": 106011,
    "lakes": 311,
-   "ledgers": 13353,
+   "ledgers": 20263,
    "off": 14232,
-   "on": 37277,
-   "open": 24338,
+   "on": 53136,
+   "open": 49514,
    "surveyed": 10903
   },
   "AK": {
@@ -104,12 +104,12 @@
    "surveyed": 3
   },
   "GL": {
-   "held": 6,
+   "held": 5,
    "lakes": 5,
    "ledgers": 5,
    "off": 0,
-   "on": 42,
-   "open": 7,
+   "on": 44,
+   "open": 6,
    "surveyed": 1
   },
   "IA": {
@@ -302,13 +302,13 @@
    "surveyed": 17
   },
   "ON": {
-   "held": 11554,
+   "held": 11571,
    "lakes": 3123,
-   "ledgers": 2504,
-   "off": 480,
-   "on": 6598,
-   "open": 8912,
-   "surveyed": 1096
+   "ledgers": 2508,
+   "off": 484,
+   "on": 6597,
+   "open": 8936,
+   "surveyed": 1099
   },
   "OR": {
    "held": 39,
@@ -461,8 +461,8 @@
    "wrong": 0
   },
   "on_netted_in_2_years_cover_searched_": {
-   "lakes": 84,
-   "off": 264,
+   "lakes": 85,
+   "off": 268,
    "pct": 0.0,
    "takesOff": true,
    "verdict": "PASSES",
@@ -485,12 +485,12 @@
    "wrong": 16
   },
   "on_not_netted_shorter_list_no_cover_": {
-   "lakes": 658,
-   "off": 2845,
-   "pct": 3.936731107205624,
+   "lakes": 668,
+   "off": 2907,
+   "pct": 4.024767801857585,
    "takesOff": false,
    "verdict": "DOES NOT PASS",
-   "wrong": 112
+   "wrong": 117
   },
   "wi_page": {
    "lakes": 295,
